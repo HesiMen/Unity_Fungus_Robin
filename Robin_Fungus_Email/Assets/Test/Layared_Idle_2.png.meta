@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 5d9be641930fdec42aca4346b1e4409b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Layared_Idle_2_0
+    21300002: Layared_Idle_2_1
+    21300004: Layared_Idle_2_2
+    21300006: Layared_Idle_2_3
+    21300008: Layared_Idle_2_4
+    21300010: Layared_Idle_2_5
+    21300012: Layared_Idle_2_6
+    21300014: Layared_Idle_2_7
+    21300016: Layared_Idle_2_8
+    21300018: Layared_Idle_2_9
+    21300020: Layared_Idle_2_10
+    21300022: Layared_Idle_2_11
+    21300024: Layared_Idle_2_12
+    21300026: Layared_Idle_2_13
+    21300028: Layared_Idle_2_14
+    21300030: Layared_Idle_2_15
+    21300032: Layared_Idle_2_16
+    21300034: Layared_Idle_2_17
+    21300036: Layared_Idle_2_18
+    21300038: Layared_Idle_2_19
+    21300040: Layared_Idle_2_20
+    21300042: Layared_Idle_2_21
+    21300044: Layared_Idle_2_22
+    21300046: Layared_Idle_2_23
+    21300048: Layared_Idle_2_24
+    21300050: Layared_Idle_2_25
+    21300052: Layared_Idle_2_26
+    21300054: Layared_Idle_2_27
+    21300056: Layared_Idle_2_28
+    21300058: Layared_Idle_2_29
+    21300060: Layared_Idle_2_30
+    21300062: Layared_Idle_2_31
+    21300064: Layared_Idle_2_32
+    21300066: Layared_Idle_2_33
+    21300068: Layared_Idle_2_34
+    21300070: Layared_Idle_2_35
+    21300072: Layared_Idle_2_36
+    21300074: Layared_Idle_2_37
+    21300076: Layared_Idle_2_38
+    21300078: Layared_Idle_2_39
+    21300080: Layared_Idle_2_40
+    21300082: Layared_Idle_2_41
+    21300084: Layared_Idle_2_42
+    21300086: Layared_Idle_2_43
+    21300088: Layared_Idle_2_44
+    21300090: Layared_Idle_2_45
+    21300092: Layared_Idle_2_46
+    21300094: Layared_Idle_2_47
+    21300096: Layared_Idle_2_48
+    21300098: Layared_Idle_2_49
+    21300100: Layared_Idle_2_50
+    21300102: Layared_Idle_2_51
+    21300104: Layared_Idle_2_52
+    21300106: Layared_Idle_2_53
+    21300108: Layared_Idle_2_54
+    21300110: Layared_Idle_2_55
+    21300112: Layared_Idle_2_56
+    21300114: Layared_Idle_2_57
+    21300116: Layared_Idle_2_58
+    21300118: Layared_Idle_2_59
+    21300120: Layared_Idle_2_60
+    21300122: Layared_Idle_2_61
+    21300124: Layared_Idle_2_62
+    21300126: Layared_Idle_2_63
+    21300128: Layared_Idle_2_64
+    21300130: Layared_Idle_2_65
+    21300132: Layared_Idle_2_66
+    21300134: Layared_Idle_2_67
+    21300136: Layared_Idle_2_68
+    21300138: Layared_Idle_2_69
+    21300140: Layared_Idle_2_70
+    21300142: Layared_Idle_2_71
+    21300144: Layared_Idle_2_72
+    21300146: Layared_Idle_2_73
+    21300148: Layared_Idle_2_74
+    21300150: Layared_Idle_2_75
+    21300152: Layared_Idle_2_76
+    21300154: Layared_Idle_2_77
+    21300156: Layared_Idle_2_78
+    21300158: Layared_Idle_2_79
+    21300160: Layared_Idle_2_80
+    21300162: Layared_Idle_2_81
+    21300164: Layared_Idle_2_82
+    21300166: Layared_Idle_2_83
+    21300168: Layared_Idle_2_84
+    21300170: Layared_Idle_2_85
+    21300172: Layared_Idle_2_86
+    21300174: Layared_Idle_2_87
+    21300176: Layared_Idle_2_88
+    21300178: Layared_Idle_2_89
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Layared_Idle_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8316
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e401d5dcfb6fd2449bfaefa95c6f5a7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_1
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 8316
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0a0bbec09c6954e9789284b36fd6db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_2
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 8316
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302e5c57fd49e53409769db89b126db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_3
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 8316
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4cabb531fd66447a8c9487173eab25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_4
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 8316
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b2ae9e585c43744be3c949614ac3c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_5
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 8316
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1e05594ec51d4fb858a3fca9fceaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_6
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 8316
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8deec79252aa847aeb0d3f5fdf9bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_7
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 8316
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10c2db87fa51e0489d6c625dc0db60f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7560
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d48444a40edcf24ebf195d0952f45fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_9
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 7560
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4054bdd3952b7b945a74db50535f6fa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_10
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 7560
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ff222ab24c2146bcd313b1ab7ee89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_11
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 7560
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c814879715325488c99726fccec181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_12
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 7560
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58b6d437b8a515418c2a0b352359d17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_13
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 7560
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b2bd6016454044abf6d08e964665a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_14
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 7560
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457a2e44865a4a74b883b83b8cdb8981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_15
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 7560
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5ce92cd7f5f2c43adc95c5b2944410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6804
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801bf4ee8c5e2de4a9ad5e836ce882f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 6804
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed432af11a934c846a2d9dbbad688f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_18
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 6804
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c1def642a9dde4b89800f811a2093b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_19
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 6804
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb9d602d37b36439b9efed24c0c334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_20
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 6804
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e21a4b9c08f28f44961c5851ace1c22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_21
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 6804
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0156c00c7145d43887f6f540178382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_22
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 6804
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8146a9d5e4f10d4dbc793e5baef75a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_23
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 6804
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74289bef48a8d154d9b193156d96a3ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6048
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dca7945fe3bbc40b5c70d327b8e7b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_25
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 6048
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15b3a2f50ed3ae428103baa62430658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_26
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 6048
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459dbda0dc5fc5e41ba6ad15c46171e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_27
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 6048
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e33739c589ee784e9aeaa99a9ea9e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_28
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 6048
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a63d2e07d1fc0446a3baef2e4172efd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_29
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 6048
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab431346cd65b1248a342ac2024a3061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_30
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 6048
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ab65b0cc5a0e4c84d696bdf3a27d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_31
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 6048
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8b1825e9850cc4fa45ba12ba351314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5292
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c11f295e5878f42beb9d80493d0d2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_33
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 5292
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66507ff894e238c45b63ca1c4adb0af5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_34
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5292
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aca90867c62dcc4f89ea613ab60092c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_35
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 5292
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aad212e138c4fe4b99f155a088edb73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_36
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 5292
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b6869695beb724186be3e8bf67fb3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_37
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 5292
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e66ceb93022a884783d94cbc6e74225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_38
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 5292
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c2a9ea5f9ce84d91ba06f613bdc43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_39
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 5292
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2455bed0ce277a2488685238c833d8a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4536
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf7e6aa141ddca4d9e7f7ef7754e090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_41
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4536
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bb3eea65458bd4d9b159209768fe14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_42
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 4536
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb14eab7489a259498fa909b88110ea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_43
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 4536
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1f182b2788f304fa4bd61e9ba6388c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_44
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 4536
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18233a9752b26cb4e9bb58305202b87d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_45
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 4536
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045109e7cbc19aa4fb1bacef5f0b9bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_46
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 4536
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d8c2688c1f12843912d92c443a2141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_47
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 4536
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff17e1aafcfcc4c9ee3bec58cad8c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3780
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9497d77ddda7dd9499f16a9bbf8d0731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_49
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3780
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e523d134a849e2340b7f9060853867b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_50
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3780
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d5f7e718b3b88478733f2ab726cdb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_51
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 3780
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f8b1dd65e9048458340fa0045ce1bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_52
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3780
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ad60dd5232894099b69644d1a5def
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_53
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 3780
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d5e9d83cdf81e48b83dffbe99fb1be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_54
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 3780
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7282b990f5adee46bfd75818e3398ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_55
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 3780
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a547056def0724282083162daca7f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63143f54d4600a74aa15497a31e8c0f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_57
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3024
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d528502595bf45408dcedc09b31aec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_58
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3024
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae209b4a2acfd0e408299ca2879ac8f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_59
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 3024
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f711548965156b45a33a0f755bed564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_60
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3024
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1362b001886d2942b29a38d5508bd16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_61
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 3024
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea978cb4a8a1984393cb85a79af2738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_62
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 3024
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec56b82226bece41ac642774ef88a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_63
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 3024
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5baf94d4dbab8540b2072bb984d82cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2268
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27742ea96a363a498d627e2d484087e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_65
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2268
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845f30cad5b005d4c9cccab105ef5142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_66
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2268
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad9c22f070ae104f9dba1ffd34a05e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_67
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 2268
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0dc2a0fa25a1c4099e246e8ad7445d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_68
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2268
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dfb5b5462c3374684a8c4bad56522c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_69
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 2268
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a1c251a411da14e84712b5b8e43876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_70
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 2268
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8622f813b35d98c41812a224285fd63f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_71
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 2268
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b089916d348a1694092bee3ce109c92b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d509a2b1a454947a75f6e085bff9ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_73
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1512
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de15fb31c38439b46a572fbffa0d4c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_74
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1512
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8c15e4365a1cd43a90dc94cdd34d13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_75
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1512
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6315c32eb81a10488660fd9c2919f09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_76
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1512
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de649b99c6adc47af6df9fcf5a0dde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_77
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 1512
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f587e868805b1604cba591c657e2b64f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_78
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 1512
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41323a21e6a66b648b5010c1cf0886fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_79
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 1512
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a9d7d868cec6478aa78e3bceee9a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9336c263dba474d8a2541b1aa28d77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_81
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 756
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cec6c0dbac78de4f845a1ef250481fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_82
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 756
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0355f474ef7ef4a944f98e0caffdda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_83
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 756
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978c1c8b5e5a2e94faaf01526e0f523f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_84
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 756
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db2770a3cb68214399c22f882564105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_85
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 756
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a8a06b94f3e4047bb29df4efed97b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_86
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 756
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6a7cc5a6e88914eb8db92365e72c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_87
+      rect:
+        serializedVersion: 2
+        x: 9408
+        y: 756
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4ce5d2499bc1541a89f7f65da1fedb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc43df9c2afddf438a911914e9a3c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layared_Idle_2_89
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 1344
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced7280582430e479594042374c7354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 51e66b0769b8a8945ac091ab33897e19
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
