@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -257,11 +257,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: variables.Array.size
-      value: 7
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.size
-      value: 43
+      value: 49
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: selectedBlocks.Array.size
@@ -269,7 +269,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: selectedCommands.Array.size
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 467082, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -333,20 +333,20 @@ PrefabInstance:
       objectReference: {fileID: 891146917}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: scrollPos.x
-      value: 118.73241
+      value: 1635.7911
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: scrollPos.y
-      value: 1061.4038
+      value: 703.2149
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: selectedBlocks.Array.data[0]
       value: 
-      objectReference: {fileID: 891147058}
+      objectReference: {fileID: 891147085}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: selectedCommands.Array.data[0]
       value: 
-      objectReference: {fileID: 891147014}
+      objectReference: {fileID: 891147114}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: variables.Array.data[0]
       value: 
@@ -365,7 +365,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: zoom
-      value: 0.6099999
+      value: 0.69999975
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: variables.Array.data[1]
@@ -562,16 +562,57 @@ PrefabInstance:
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[41]
       value: 
-      objectReference: {fileID: 891147071}
+      objectReference: {fileID: 891147113}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[42]
       value: 
+      objectReference: {fileID: 891147112}
+    - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: variables.Array.data[7]
+      value: 
+      objectReference: {fileID: 891147079}
+    - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: commandList.Array.data[43]
+      value: 
+      objectReference: {fileID: 891147111}
+    - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: commandList.Array.data[44]
+      value: 
+      objectReference: {fileID: 891147089}
+    - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: commandList.Array.data[45]
+      value: 
+      objectReference: {fileID: 891147083}
+    - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: commandList.Array.data[46]
+      value: 
+      objectReference: {fileID: 891147082}
+    - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: commandList.Array.data[47]
+      value: 
+      objectReference: {fileID: 891147071}
+    - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: commandList.Array.data[48]
+      value: 
       objectReference: {fileID: 891147061}
+    - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: variables.Array.data[8]
+      value: 
+      objectReference: {fileID: 891147078}
+    - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: variables.Array.data[9]
+      value: 
+      objectReference: {fileID: 891147090}
+    - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: variables.Array.data[10]
+      value: 
+      objectReference: {fileID: 891147110}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
 --- !u!114 &421993709 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+  m_CorrespondingSourceObject: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a,
+    type: 3}
   m_PrefabInstance: {fileID: 421993708}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 891146916}
@@ -972,12 +1013,14 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
 --- !u!4 &714921304 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+  m_CorrespondingSourceObject: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c,
+    type: 3}
   m_PrefabInstance: {fileID: 1807480716}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &714921305 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+  m_CorrespondingSourceObject: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c,
+    type: 3}
   m_PrefabInstance: {fileID: 1807480716}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -1068,7 +1111,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &788364108 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 11472146, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
+  m_CorrespondingSourceObject: {fileID: 11472146, guid: 9bb64c8df70904eecac3f71f81bf339b,
+    type: 3}
   m_PrefabInstance: {fileID: 1913156380}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -1079,7 +1123,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 --- !u!114 &857447021 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 11415124, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
+  m_CorrespondingSourceObject: {fileID: 11415124, guid: 9bb64c8df70904eecac3f71f81bf339b,
+    type: 3}
   m_PrefabInstance: {fileID: 1913156380}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -1090,7 +1135,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 --- !u!1 &891146916 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 142980, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+  m_CorrespondingSourceObject: {fileID: 142980, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a,
+    type: 3}
   m_PrefabInstance: {fileID: 421993708}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &891146917
@@ -1136,7 +1182,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2069.3809
     y: 300.44196
-    width: 140.98044
+    width: 139.42308
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -1248,7 +1294,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1918.9407
     y: 99.626236
-    width: 128.4314
+    width: 128.84616
     height: 40
   tint: {r: 1, g: 0.051016845, b: 0, a: 1}
   useCustomTint: 1
@@ -1275,7 +1321,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  text: No to therapy
+  text: 'Hi Mom, no thanks, I''ll be okay.  I''m sorry for not reaching out recently
+    - just dealing with recovery. '
   description: No
   targetBlock: {fileID: 891146923}
   hideIfVisited: 0
@@ -1302,7 +1349,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1785.771
     y: 300.67355
-    width: 136.27454
+    width: 133.65384
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -1326,7 +1373,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 22
   indentLevel: 0
-  text: yes to therapy
+  text: 'Hi Mom, I''m sorry for not reaching out... maybe that''s a good idea, but
+    I don''t know when I''ll have the time.  '
   description: yes
   targetBlock: {fileID: 891146918}
   hideIfVisited: 0
@@ -1339,7 +1387,8 @@ MonoBehaviour:
     booleanVal: 0
 --- !u!114 &891146925 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+  m_CorrespondingSourceObject: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a,
+    type: 3}
   m_PrefabInstance: {fileID: 421993708}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 891146916}
@@ -1377,7 +1426,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 21
   indentLevel: 0
-  storyText: "concern for not\r\nanswering,\r\nsuggests therapy\r\nappointment"
+  storyText: ' Hi honey, I just wanted to check in since I haven''t heard from u in
+    a while... I know that the past weeks have been really hard on u, but i don''t
+    want you to shut me out again. Do u want me to book an appointment with ur therapist?
+    Can totally do no problem. LMK. Love you. ~mom '
   description: Therapy?
   character: {fileID: 714921305}
   portrait: {fileID: 0}
@@ -1457,7 +1509,8 @@ MonoBehaviour:
   value: 0
 --- !u!4 &891146931 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 467082, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+  m_CorrespondingSourceObject: {fileID: 467082, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a,
+    type: 3}
   m_PrefabInstance: {fileID: 421993708}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &891146932
@@ -1537,7 +1590,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1809.1223
     y: 481.69952
-    width: 231.17654
+    width: 232.69232
     height: 40
   tint: {r: 0.9215687, g: 0.04705883, b: 0, a: 1}
   useCustomTint: 1
@@ -1721,7 +1774,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 183
   indentLevel: 2
-  text: "mom \t\tRe:Re:"
+  text: "mom \t\tRe:"
   description: 
   targetBlock: {fileID: 891146941}
   hideIfVisited: 0
@@ -1748,7 +1801,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1160.0156
     y: 1227.5486
-    width: 191.96085
+    width: 190.38461
     height: 40
   tint: {r: 0.9333334, g: 0.04705883, b: 0, a: 1}
   useCustomTint: 1
@@ -1942,7 +1995,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 42
   indentLevel: 0
-  storyText: "\nokay great I'll call in an appointment. can i help you at all til then? \nmaybe bring by soup.. \nis jordan still not feeling well? \ngayle from bridge gave me a great new wedding soup\r recipe"
+  storyText: Okay great I'll call in and see when they're available. can i help you
+    at all til then? maybe bring by soup.. is jordan still not feeling well? gayle
+    from bridge gave me a great new wedding soup recipe. ~mom
   description: No to therapy
   character: {fileID: 714921305}
   portrait: {fileID: 0}
@@ -2035,7 +2090,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1547.5593
     y: 1200.5945
-    width: 236.66673
+    width: 235.57693
     height: 40
   tint: {r: 0.83921576, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -2062,9 +2117,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -716.025
-    y: 1744.0975
-    width: 162.94122
+    x: -774.8483
+    y: 1714.6859
+    width: 162.5
     height: 40
   tint: {r: 0.83921576, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -2093,7 +2148,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1534.2668
     y: 952.45776
-    width: 146.47063
+    width: 145.19232
     height: 40
   tint: {r: 0.8980393, g: 0.41960788, b: 0.654902, a: 1}
   useCustomTint: 1
@@ -2139,7 +2194,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 50
   indentLevel: 0
-  text: "She's not much better... \nhonestly things have been different since the\r accident"
+  text: "She's not much better... \nhonestly things have been different since the\r
+    accident"
   description: 
   targetBlock: {fileID: 891146958}
   hideIfVisited: 0
@@ -2164,7 +2220,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 49
   indentLevel: 0
-  text: "her nausea just keeps getting worse... \nYou know\r I have my suspicions of what\r it could be, but I don't know how to bring it up so soon\r after what happened..."
+  text: "her nausea just keeps getting worse... \nYou know\r I have my suspicions
+    of what\r it could be, but I don't know how to bring it up so soon\r after what
+    happened..."
   description: 
   targetBlock: {fileID: 891146962}
   hideIfVisited: 0
@@ -2301,17 +2359,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -369.49933
-    y: -108.37463
-    width: 120
+    x: -692.5759
+    y: -254.52863
+    width: 153.84616
     height: 40
   tint: {r: 0.909804, g: 0.42352945, b: 0.6627451, a: 1}
   useCustomTint: 1
   itemId: 120
-  blockName: Mom
-  description: 
+  blockName: mom's_next_email
+  description: Might need to do this logic in email_This is a reminder.
   eventHandler: {fileID: 0}
-  commandList: []
+  commandList:
+  - {fileID: 891147076}
+  - {fileID: 891147075}
+  - {fileID: 891147074}
+  - {fileID: 891147073}
+  - {fileID: 891147088}
+  - {fileID: 891147084}
 --- !u!114 &891146958
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2328,7 +2392,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2074.3809
     y: 958.1875
-    width: 140.1961
+    width: 137.5
     height: 40
   tint: {r: 0.9607844, g: 0.44705886, b: 0.7019608, a: 1}
   useCustomTint: 1
@@ -2639,7 +2703,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 157
   indentLevel: 0
-  storyText: "your therapist\r could help with all\r of that ... \nhow is\r the physical recovery going?"
+  storyText: "your therapist\r could help with all\r of that ... \nhow is\r the physical
+    recovery going?"
   description: No to thera[y
   character: {fileID: 714921305}
   portrait: {fileID: 0}
@@ -2794,7 +2859,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 75
   indentLevel: 0
-  text: "they said\r they found\r something concerning...\r\ndon't worry\r about it im\r sure it will be fine"
+  text: "they said\r they found\r something concerning...\r\ndon't worry\r about it
+    im\r sure it will be fine"
   description: 
   targetBlock: {fileID: 891146984}
   hideIfVisited: 0
@@ -2844,7 +2910,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 73
   indentLevel: 0
-  storyText: "Why havent you heard\r back yet? \nthey\r released you last week"
+  storyText: "Did something new happen in physical therapy? \nthey released u from
+    the hospital last week"
   description: No to thera[y
   character: {fileID: 714921305}
   portrait: {fileID: 0}
@@ -2871,7 +2938,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 181
   indentLevel: 2
-  text: "mom \t\tRe:Re:"
+  text: "mom \t\tRe:"
   description: To Third
   targetBlock: {fileID: 891146948}
   hideIfVisited: 0
@@ -2960,7 +3027,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 179
   indentLevel: 2
-  text: "mom \t\tRe:Re:"
+  text: "mom \t\tRe:"
   description: 
   targetBlock: {fileID: 891146975}
   hideIfVisited: 0
@@ -2987,7 +3054,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2127.936
     y: 1165.528
-    width: 229.60791
+    width: 228.84616
     height: 40
   tint: {r: 0.8705883, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -3039,7 +3106,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 129
   indentLevel: 0
-  text: "I know, but I don't know if she's sick\r from stress or from something\r else....\nI don't want to jinx it by\r buying a test too early.\nmy leg is okay..."
+  text: "I know, but I don't know if she's sick\r from stress or from something\r
+    else....\nI don't want to jinx it by\r buying a test too early.\nmy leg is okay..."
   description: 
   targetBlock: {fileID: 891146996}
   hideIfVisited: 0
@@ -3155,7 +3223,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 177
   indentLevel: 2
-  text: "mom \t\tRe:Re:"
+  text: "mom \t\tRe:"
   description: To Third
   targetBlock: {fileID: 891147005}
   hideIfVisited: 0
@@ -3443,7 +3511,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1638.6758
     y: 1487.9613
-    width: 162.94122
+    width: 161.53847
     height: 40
   tint: {r: 0.97647065, g: 0.454902, b: 0.7137255, a: 1}
   useCustomTint: 1
@@ -3555,7 +3623,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2542.5686
     y: 1488.2379
-    width: 186.47064
+    width: 184.61539
     height: 40
   tint: {r: 0.87843144, g: 0.41176474, b: 0.6392157, a: 1}
   useCustomTint: 1
@@ -3779,7 +3847,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2130.1797
     y: 1497.9708
-    width: 195.88242
+    width: 193.26924
     height: 40
   tint: {r: 0.8980393, g: 0.41960788, b: 0.654902, a: 1}
   useCustomTint: 1
@@ -3891,7 +3959,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1880.0215
     y: 1487.8844
-    width: 182.54907
+    width: 180.76924
     height: 40
   tint: {r: 0.97647065, g: 0.454902, b: 0.7137255, a: 1}
   useCustomTint: 1
@@ -3991,7 +4059,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 107
   indentLevel: 0
-  text: "I'm sure, I'm far\r too busy with\r work, and jordan, and physical recovery to begin with...."
+  text: "I'm sure, I'm far\r too busy with\r work, and jordan, and physical recovery
+    to begin with...."
   description: 
   targetBlock: {fileID: 891146954}
   hideIfVisited: 0
@@ -4016,7 +4085,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 106
   indentLevel: 0
-  storyText: "are you sure? you know they\r say its easier to relapse after a traumatic event like a car\r accident... \nbrain and body hea together. \n\nGayle from my bridge\r group was telling me about hollistic medicine too...\n"
+  storyText: Are you sure? you know they say its easier to relapse after a traumatic
+    event like a car accident... brain and body heal together. Gayle from my bridge
+    group was telling me about hollistic medicine too... ~mom
   description: No to thera[y
   character: {fileID: 714921305}
   portrait: {fileID: 0}
@@ -4045,7 +4116,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2414.9978
     y: 1154.44
-    width: 162.94122
+    width: 164.42308
     height: 40
   tint: {r: 0.8235295, g: 0.039215688, b: 0, a: 1}
   useCustomTint: 1
@@ -4097,7 +4168,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 164
   indentLevel: 0
-  text: "I want to let her\r process on her\r own time...\r\nanother chance\r would be great but\r I don't want to\r pressure her"
+  text: "I want to let her\r process on her\r own time...\r\nanother chance\r would
+    be great but\r I don't want to\r pressure her"
   description: baby
   targetBlock: {fileID: 891146990}
   hideIfVisited: 0
@@ -4122,7 +4194,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 165
   indentLevel: 0
-  storyText: "miscarriages happen and\r yuo have to support her,\r\nespecially if she isn't feeling well. your father left me so\r\nalone after mine.. I don't\r want you do make his\r mistakes"
+  storyText: "miscarriages happen and\r yuo have to support her,\r\nespecially if
+    she isn't feeling well. your father left me so\r\nalone after mine.. I don't\r
+    want you do make his\r mistakes"
   description: her Nausea
   character: {fileID: 714921305}
   portrait: {fileID: 0}
@@ -4279,7 +4353,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1382.9087
     y: 472.14023
-    width: 227.25497
+    width: 227.88463
     height: 40
   tint: {r: 0.95294124, g: 0.04705883, b: 0, a: 1}
   useCustomTint: 1
@@ -5364,7 +5438,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -942.6955
     y: 1883.1211
-    width: 133.1373
+    width: 134.61539
     height: 40
   tint: {r: 0.909804, g: 0.42352945, b: 0.6627451, a: 1}
   useCustomTint: 1
@@ -5474,7 +5548,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 221
   indentLevel: 0
-  storyText: "you know I'm\r going to worry\r anyway.... \nplease\r let me know as\r soon as you know\r anything..."
+  storyText: "you know I'm\r going to worry\r anyway.... \nplease\r let me know as\r
+    soon as you know\r anything..."
   description: No to thera[y
   character: {fileID: 714921305}
   portrait: {fileID: 0}
@@ -5501,11 +5576,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 220
   indentLevel: 0
-  variable: {fileID: 891146933}
+  variable: {fileID: 891147078}
   setOperator: 0
   booleanData:
     booleanRef: {fileID: 0}
-    booleanVal: 0
+    booleanVal: 1
   integerData:
     integerRef: {fileID: 0}
     integerVal: 4
@@ -5567,7 +5642,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1459.3325
     y: 1722.853
-    width: 127.64709
+    width: 126.92308
     height: 40
   tint: {r: 0.83921576, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -5594,7 +5669,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 212
   indentLevel: 0
-  text: "I feel so bad that I haven't been there\r for her ...\nI felt likea\r card would feel too\r impersonal"
+  text: "I feel so bad that I haven't been there\r for her ...\nI felt likea\r card
+    would feel too\r impersonal"
   description: 
   targetBlock: {fileID: 891147049}
   hideIfVisited: 0
@@ -5758,7 +5834,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1692.5266
     y: 1860.0585
-    width: 147.25494
+    width: 145.19232
     height: 40
   tint: {r: 0.909804, g: 0.42352945, b: 0.6627451, a: 1}
   useCustomTint: 1
@@ -5868,7 +5944,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 210
   indentLevel: 0
-  storyText: "Which hospital were\r you at? \nJane's dad was at Saint Peter's and\r they were speedy with his results ...\nbtw have\r you sent a sympathy\r card to jane?"
+  storyText: "Which hospital were\r you at? \nJane's dad was at Saint Peter's and\r
+    they were speedy with his results ...\nbtw have\r you sent a sympathy\r card to
+    jane?"
   description: No to thera[y
   character: {fileID: 714921305}
   portrait: {fileID: 0}
@@ -5895,11 +5973,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 209
   indentLevel: 0
-  variable: {fileID: 891146933}
+  variable: {fileID: 891147078}
   setOperator: 0
   booleanData:
     booleanRef: {fileID: 0}
-    booleanVal: 0
+    booleanVal: 1
   integerData:
     integerRef: {fileID: 0}
     integerVal: 4
@@ -5961,7 +6039,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 387.96603
     y: -21.153915
-    width: 158.23534
+    width: 159.61539
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -6006,7 +6084,7 @@ MonoBehaviour:
   value: 0
 --- !u!114 &891147061
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6031,7 +6109,7 @@ MonoBehaviour:
     booleanVal: 0
 --- !u!114 &891147062
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6043,7 +6121,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 238
   indentLevel: 0
-  text: "i've got so many things going on\r right now \nI don't think id even be\r helpful to the team"
+  text: "i've got so many things going on\r right now \nI don't think id even be\r
+    helpful to the team"
   description: 
   targetBlock: {fileID: 891147063}
   hideIfVisited: 0
@@ -6070,11 +6149,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 540.5544
     y: 119.03212
-    width: 180.19614
+    width: 177.88461
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
-  itemId: 19
+  itemId: 245
   blockName: i've got so many things
   description: 
   eventHandler: {fileID: 0}
@@ -6082,7 +6161,7 @@ MonoBehaviour:
   - {fileID: 891147064}
 --- !u!114 &891147064
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6115,7 +6194,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 236
   indentLevel: 0
-  text: "I know he only\r gave me a week\r but i figured i'd\r\nhave more time\r while he's gone. is there any work i\r\ncan do from\r home? \nrecovery is taking a real toll on me and I need\r\nto put myself first"
+  text: "I know he only\r gave me a week\r but i figured i'd\r\nhave more time\r while
+    he's gone. is there any work i\r\ncan do from\r home? \nrecovery is taking a real
+    toll on me and I need\r\nto put myself first"
   description: 
   targetBlock: {fileID: 891147066}
   hideIfVisited: 0
@@ -6142,11 +6223,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 196.73096
     y: 104.91449
-    width: 164.50986
+    width: 166.34616
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
-  itemId: 19
+  itemId: 246
   blockName: I know he only  gave
   description: 
   eventHandler: {fileID: 0}
@@ -6155,7 +6236,7 @@ MonoBehaviour:
   - {fileID: 891147067}
 --- !u!114 &891147067
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6240,7 +6321,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &891147069
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6252,7 +6333,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 241
   indentLevel: 0
-  storyText: "hey... \nI'm just checking in\r after your accident... \nBoss man is on vacation but he said you'd be back by now... \nnot trying to stress you out more but\r\nlike our marketing plan is due next week\r\nand you know this could be huge for both of\r us  \n\nyou coming back soon?"
+  storyText: "hey... \nI'm just checking in\r after your accident... \nBoss man is
+    on vacation but he said you'd be back by now... \nnot trying to stress you out
+    more but\r\nlike our marketing plan is due next week\r\nand you know this could
+    be huge for both of\r us  \n\nyou coming back soon?"
   description: 
   character: {fileID: 1935506228}
   portrait: {fileID: 0}
@@ -6331,7 +6415,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &891147071
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6395,7 +6479,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &891147072
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6407,6 +6491,1567 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 243
   indentLevel: 0
+--- !u!114 &891147073
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa968f01a7f9496bb50e13dfe16760d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 249
+  indentLevel: 0
+--- !u!114 &891147074
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 250
+  indentLevel: 1
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 891147077}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 1
+--- !u!114 &891147075
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 248
+  indentLevel: 1
+  storyText: 'if ansered to  mom and coworker '
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &891147076
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c5622b8a80845c980954170295f292, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 247
+  indentLevel: 0
+  compareOperator: 0
+  variable: {fileID: 891147079}
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 1
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147077
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -926.7248
+    y: -135.49495
+    width: 232.69232
+    height: 40
+  tint: {r: 0.87058824, g: 0.4039216, b: 0.43131095, a: 1}
+  useCustomTint: 1
+  itemId: 251
+  blockName: if they answered mom+coworker
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147081}
+  - {fileID: 891147080}
+  - {fileID: 891147098}
+  - {fileID: 891147094}
+--- !u!114 &891147078
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d02d9822eec54c98afe95bb497211b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 0
+  key: first_set_email_mom
+  value: 0
+--- !u!114 &891147079
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb91b566ceda411bad1e9d3c3243ecc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 0
+  key: answered_to_momAndcoworker
+  value: 0
+--- !u!114 &891147080
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 265
+  indentLevel: 0
+  storyText: robin your office left a voicemail on the house phone looking for you...why
+    haven't you been going to work? I know you just experienced trauma but as an adult
+    you have to get used to juggling a lot at once... if you're thinking of a baby
+    and a new house you have to pay your bills
+  description: 
+  character: {fileID: 714921305}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &891147081
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 254
+  indentLevel: 0
+  variable: {fileID: 891146933}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 5
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147082
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93cb9773f2ca04e2bbf7a68ccfc23267, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 261
+  indentLevel: 0
+--- !u!114 &891147083
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 264
+  indentLevel: 1
+  text: Option Text
+  description: 
+  targetBlock: {fileID: 891146957}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147084
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 253
+  indentLevel: 1
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 891147085}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 1
+--- !u!114 &891147085
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -1000.49066
+    y: -470.81995
+    width: 205.76924
+    height: 40
+  tint: {r: 0.8196079, g: 0.3803922, b: 0.40784317, a: 1}
+  useCustomTint: 1
+  itemId: 263
+  blockName: if they answered mom+jane
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147087}
+  - {fileID: 891147086}
+  - {fileID: 891147116}
+  - {fileID: 891147114}
+--- !u!114 &891147086
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 266
+  indentLevel: 0
+  storyText: 'new email/subject from MOM  cc JANE :  robin i just spoke with jane
+    who said you didnt say anything at ALL when her dad died... its just not like
+    you... we are very worried - are you hiding something?'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &891147087
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 255
+  indentLevel: 0
+  variable: {fileID: 891146933}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 5
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147088
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 252
+  indentLevel: 1
+  storyText: if they answered mom+jane
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &891147089
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c5622b8a80845c980954170295f292, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 258
+  indentLevel: 0
+  compareOperator: 0
+  variable: {fileID: 891147078}
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 4
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147090
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d02d9822eec54c98afe95bb497211b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 0
+  key: email_from_Jordan
+  value: 0
+--- !u!114 &891147091
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -1637.4878
+    y: -162.82333
+    width: 149.03847
+    height: 40
+  tint: {r: 0.7666936, g: 0.4039216, b: 0.87058824, a: 1}
+  useCustomTint: 1
+  itemId: 251
+  blockName: Jordan:Pregnancy
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147093}
+  - {fileID: 891147092}
+--- !u!114 &891147092
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 282
+  indentLevel: 0
+  storyText: new email/subject from MOM  - robin your office left a voicemail on the
+    house phone looking for you...why haven't you been going to work? I know you just
+    experienced trauma but as an adult you have to get used to juggling a lot at once...
+    if you're thinking of a baby and a new house you have to pay your bills
+  description: 
+  character: {fileID: 714921305}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &891147093
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 281
+  indentLevel: 0
+  variable: {fileID: 891146933}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 5
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147094
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 284
+  indentLevel: 0
+  text: they gave me time off since the accident but im still not ready. I know i
+    have to be there to support jordan but we don't know yet for sure
+  description: 
+  targetBlock: {fileID: 891147095}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147095
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -1301.6624
+    y: -112.801414
+    width: 172.11539
+    height: 40
+  tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
+  useCustomTint: 1
+  itemId: 26
+  blockName: they gave me time off
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147097}
+  - {fileID: 891147096}
+--- !u!114 &891147096
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 273
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 891147091}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 1
+--- !u!114 &891147097
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 285
+  indentLevel: 0
+  variable: {fileID: 891147090}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147098
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 283
+  indentLevel: 0
+  text: I can't focus on my other responsibilities sometimes when I'm so consumed
+    by jordan... I want to be a good partner and future parent and that weight is
+    crushing me. we don't even know for sure yet... I know i have to shape up if/when
+    the news comes
+  description: 
+  targetBlock: {fileID: 891147100}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147099
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 276
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 891147091}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 1
+--- !u!114 &891147100
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -1299.5574
+    y: -194.66571
+    width: 188.46155
+    height: 40
+  tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
+  useCustomTint: 1
+  itemId: 18
+  blockName: I can't focus on my other
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147101}
+  - {fileID: 891147099}
+--- !u!114 &891147101
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 275
+  indentLevel: 0
+  variable: {fileID: 891147090}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147102
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 279
+  indentLevel: 0
+  storyText: 'I understand and I know you just experienced trauma but as an adult
+    you have to get used to juggling a lot at once.... your mom told me they''re running
+    tests on your leg, you didnt mention any of that to me.. have you received any
+    update from the doctor? '
+  description: 
+  character: {fileID: 714921305}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 0
+  waitForClick: 1
+  stopVoiceover: 0
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &891147103
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 278
+  indentLevel: 0
+  variable: {fileID: 891147110}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 2
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147104
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -1688.9166
+    y: -403.86215
+    width: 196.15385
+    height: 40
+  tint: {r: 0.4039216, g: 0.8535381, b: 0.87058824, a: 1}
+  useCustomTint: 1
+  itemId: 251
+  blockName: 'Jane email after mom CC:'
+  description: Jane and mom = 2
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147103}
+  - {fileID: 891147102}
+  - {fileID: 891147118}
+  - {fileID: 891147117}
+--- !u!114 &891147105
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 271
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 891146925}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 1
+--- !u!114 &891147106
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -1335.3679
+    y: -339.42007
+    width: 250
+    height: 40
+  tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
+  useCustomTint: 1
+  itemId: 26
+  blockName: I know I'm sorry, I'll apologize even
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147115}
+  - {fileID: 891147105}
+--- !u!114 &891147107
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 269
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 891146925}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 1
+--- !u!114 &891147108
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 268
+  indentLevel: 0
+  variable: {fileID: 891147110}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 1
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147109
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -1333.263
+    y: -421.28436
+    width: 198.07693
+    height: 40
+  tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
+  useCustomTint: 1
+  itemId: 18
+  blockName: Mom I don't need you both
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147108}
+  - {fileID: 891147107}
+--- !u!114 &891147110
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb91b566ceda411bad1e9d3c3243ecc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 0
+  key: janeAndMom
+  value: 0
+--- !u!114 &891147111
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93cb9773f2ca04e2bbf7a68ccfc23267, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 290
+  indentLevel: 0
+--- !u!114 &891147112
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 291
+  indentLevel: 1
+  text: 'Jane email after mom CC:'
+  description: 
+  targetBlock: {fileID: 891147104}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147113
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c5622b8a80845c980954170295f292, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 289
+  indentLevel: 0
+  compareOperator: 0
+  variable: {fileID: 891147110}
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 1
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147114
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 287
+  indentLevel: 0
+  text: I know I'm sorry, I'll apologize even more at the services, its only been
+    a few days I needed time to grieve on my own.
+  description: 
+  targetBlock: {fileID: 891147106}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147115
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 288
+  indentLevel: 0
+  variable: {fileID: 891147110}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 1
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147116
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 286
+  indentLevel: 0
+  text: 'Mom I don''t need you both to gang up on me right now... '
+  description: 
+  targetBlock: {fileID: 891147109}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147117
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 294
+  indentLevel: 0
+  text: 'response to: JUST JANE - I wasn''t trying to hide anything... i honestly
+    forget about my other stuff sometimes when I''m talking about jordan... I want
+    to be a good partner and future parent and that weight is crushing me. I''ll let
+    you know when the doctor responds, should be sometime today'
+  description: 
+  targetBlock: {fileID: 891146925}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147118
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 292
+  indentLevel: 0
+  text: 'response to BOTH :They said it would come by today... so I''m waiting around
+    at the computer until then... I will let you both know '
+  description: 
+  targetBlock: {fileID: 891146925}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147119
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -2025.7913
+    y: -407.5
+    width: 143.26923
+    height: 40
+  tint: {r: 0.92941177, g: 0.50254434, b: 0.4352941, a: 1}
+  useCustomTint: 1
+  itemId: 293
+  blockName: Doctor Diagnosis
+  description: 'Create a timer '
+  eventHandler: {fileID: 0}
+  commandList: []
 --- !u!1 &1039333199
 GameObject:
   m_ObjectHideFlags: 0
@@ -6491,7 +8136,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1222841370 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+  m_CorrespondingSourceObject: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c,
+    type: 3}
   m_PrefabInstance: {fileID: 512984283}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1236054236
@@ -6529,7 +8175,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1306596447 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 11415124, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
+  m_CorrespondingSourceObject: {fileID: 11415124, guid: 9bb64c8df70904eecac3f71f81bf339b,
+    type: 3}
   m_PrefabInstance: {fileID: 570939809}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -6653,7 +8300,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!4 &1619334499 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+  m_CorrespondingSourceObject: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c,
+    type: 3}
   m_PrefabInstance: {fileID: 190851948}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1807480716
@@ -6719,7 +8367,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
 --- !u!114 &1878529832 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 11488894, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
+  m_CorrespondingSourceObject: {fileID: 11488894, guid: 8a005a9e0713f4cc1b5ad29fb07657d3,
+    type: 3}
   m_PrefabInstance: {fileID: 1946384141}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -7018,7 +8667,8 @@ PrefabInstance:
     - target: {fileID: 11472146, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9, type: 3}
+      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9,
+        type: 3}
     - target: {fileID: 11472146, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Type
       value: 0
@@ -7026,7 +8676,8 @@ PrefabInstance:
     - target: {fileID: 11472132, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9, type: 3}
+      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9,
+        type: 3}
     - target: {fileID: 11472132, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Type
       value: 0
@@ -7034,7 +8685,8 @@ PrefabInstance:
     - target: {fileID: 11472130, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9, type: 3}
+      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9,
+        type: 3}
     - target: {fileID: 11472130, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Type
       value: 0
@@ -7042,7 +8694,8 @@ PrefabInstance:
     - target: {fileID: 11472116, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9, type: 3}
+      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9,
+        type: 3}
     - target: {fileID: 11472116, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Type
       value: 0
@@ -7050,7 +8703,8 @@ PrefabInstance:
     - target: {fileID: 11472114, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9, type: 3}
+      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9,
+        type: 3}
     - target: {fileID: 11472114, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Type
       value: 0
@@ -7058,7 +8712,8 @@ PrefabInstance:
     - target: {fileID: 11415072, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9, type: 3}
+      objectReference: {fileID: 21300000, guid: 4d18a6eb882fe1f4e8cae709d8b320d9,
+        type: 3}
     - target: {fileID: 11415072, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
       propertyPath: m_Type
       value: 0
@@ -7071,7 +8726,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 9bb64c8df70904eecac3f71f81bf339b, type: 3}
 --- !u!114 &1935506228 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+  m_CorrespondingSourceObject: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c,
+    type: 3}
   m_PrefabInstance: {fileID: 190851948}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -7234,7 +8890,8 @@ PrefabInstance:
     - target: {fileID: 11488904, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: eb0f7a14ce25f934bb34be906c5d87fd, type: 3}
+      objectReference: {fileID: 21300000, guid: eb0f7a14ce25f934bb34be906c5d87fd,
+        type: 3}
     - target: {fileID: 11488904, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_Type
       value: 3
@@ -7286,7 +8943,8 @@ PrefabInstance:
     - target: {fileID: 11448914, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ef8272382d1528b47a0146590753f73f, type: 3}
+      objectReference: {fileID: 21300000, guid: ef8272382d1528b47a0146590753f73f,
+        type: 3}
     - target: {fileID: 22448914, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 635
@@ -7322,7 +8980,8 @@ PrefabInstance:
     - target: {fileID: 11493918, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: f92c94b2b58a1fb4fadefc03a4e1d459, type: 3}
+      objectReference: {fileID: 21300000, guid: f92c94b2b58a1fb4fadefc03a4e1d459,
+        type: 3}
     - target: {fileID: 22433354, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_SizeDelta.x
       value: 171.7
