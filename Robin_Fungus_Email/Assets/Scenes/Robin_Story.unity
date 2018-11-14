@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -273,11 +273,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: variables.Array.size
-      value: 14
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.size
-      value: 72
+      value: 78
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: selectedBlocks.Array.size
@@ -349,11 +349,11 @@ PrefabInstance:
       objectReference: {fileID: 891146945}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: scrollPos.x
-      value: 495.05957
+      value: -237.69719
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: scrollPos.y
-      value: 969.4064
+      value: -94.67039
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: selectedBlocks.Array.data[0]
@@ -377,11 +377,11 @@ PrefabInstance:
       objectReference: {fileID: 891147013}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: nodeRect.x
-      value: 197.95036
+      value: 199.26616
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: zoom
-      value: 0.25
+      value: 0.6699999
       objectReference: {fileID: 0}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: variables.Array.data[1]
@@ -401,7 +401,7 @@ PrefabInstance:
       objectReference: {fileID: 891146936}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: nodeRect.y
-      value: -92.30432
+      value: -90.98853
       objectReference: {fileID: 0}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[6]
@@ -726,27 +726,39 @@ PrefabInstance:
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[72]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 891147229}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[73]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 891147231}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: variables.Array.data[13]
       value: 
-      objectReference: {fileID: 891147150}
+      objectReference: {fileID: 891147148}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[74]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 891147230}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[75]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 891147245}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[76]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 891147244}
+    - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: variables.Array.data[14]
+      value: 
+      objectReference: {fileID: 891147228}
+    - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: variables.Array.data[15]
+      value: 
+      objectReference: {fileID: 891147227}
+    - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
+      propertyPath: commandList.Array.data[77]
+      value: 
+      objectReference: {fileID: 891147243}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
 --- !u!114 &421993709 stripped
@@ -1348,7 +1360,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2069.3809
     y: 300.44196
-    width: 154
+    width: 142.53732
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -1460,7 +1472,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1918.9407
     y: 99.626236
-    width: 140
+    width: 131.59204
     height: 40
   tint: {r: 1, g: 0.051016845, b: 0, a: 1}
   useCustomTint: 1
@@ -1515,7 +1527,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1773.771
     y: 300.67355
-    width: 148
+    width: 136.56717
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -1622,17 +1634,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 850.2838
-    y: -533.766
-    width: 122
+    x: 1662.9401
+    y: -551.6376
+    width: 210.19902
     height: 40
-  tint: {r: 0.57472825, g: 0.8584906, b: 0.39279994, a: 1}
+  tint: {r: 0.569923, g: 0.3443396, b: 1, a: 1}
   useCustomTint: 1
   itemId: 20
-  blockName: New Block2
+  blockName: 'email from BOSS: demotion'
   description: 
   eventHandler: {fileID: 0}
-  commandList: []
+  commandList:
+  - {fileID: 891147233}
+  - {fileID: 891147248}
+  - {fileID: 891147247}
 --- !u!114 &891146929
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -1647,8 +1662,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 398.60535
-    y: -237.92693
+    x: 713.5169
+    y: -92.5116
     width: 120
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
@@ -1758,7 +1773,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1809.1223
     y: 481.69952
-    width: 264
+    width: 239.05475
     height: 40
   tint: {r: 0.9215687, g: 0.04705883, b: 0, a: 1}
   useCustomTint: 1
@@ -1969,7 +1984,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1160.0156
     y: 1227.5486
-    width: 214
+    width: 195.27365
     height: 40
   tint: {r: 0.9333334, g: 0.04705883, b: 0, a: 1}
   useCustomTint: 1
@@ -2258,7 +2273,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1547.5593
     y: 1200.5945
-    width: 264
+    width: 242.03983
     height: 40
   tint: {r: 0.83921576, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -2287,7 +2302,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -770.8483
     y: 1710.6859
-    width: 182
+    width: 166.41792
     height: 40
   tint: {r: 0.83921576, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -2316,7 +2331,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1530.2668
     y: 952.45776
-    width: 164
+    width: 148.50748
     height: 40
   tint: {r: 0.8980393, g: 0.41960788, b: 0.654902, a: 1}
   useCustomTint: 1
@@ -2417,7 +2432,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1078.225
     y: 955.65424
-    width: 126
+    width: 120
     height: 40
   tint: {r: 0.97647065, g: 0.454902, b: 0.7137255, a: 1}
   useCustomTint: 1
@@ -2528,8 +2543,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -692.5759
-    y: -254.52863
-    width: 172
+    y: -256.16797
+    width: 157.4627
     height: 40
   tint: {r: 0.909804, g: 0.42352945, b: 0.6627451, a: 1}
   useCustomTint: 1
@@ -2560,7 +2575,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2066.3809
     y: 958.1875
-    width: 150
+    width: 140.54727
     height: 40
   tint: {r: 0.9607844, g: 0.44705886, b: 0.7019608, a: 1}
   useCustomTint: 1
@@ -2697,7 +2712,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2390.715
     y: 958.1567
-    width: 124
+    width: 120
     height: 40
   tint: {r: 0.87843144, g: 0.41176474, b: 0.6392157, a: 1}
   useCustomTint: 1
@@ -3222,7 +3237,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2127.936
     y: 1165.528
-    width: 256
+    width: 235.07465
     height: 40
   tint: {r: 0.8705883, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -3679,7 +3694,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1638.6758
     y: 1487.9613
-    width: 176
+    width: 165.4229
     height: 40
   tint: {r: 0.97647065, g: 0.454902, b: 0.7137255, a: 1}
   useCustomTint: 1
@@ -3791,7 +3806,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2542.5686
     y: 1488.2379
-    width: 204
+    width: 189.3035
     height: 40
   tint: {r: 0.87843144, g: 0.41176474, b: 0.6392157, a: 1}
   useCustomTint: 1
@@ -3903,7 +3918,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2279.663
     y: 1494.3175
-    width: 122
+    width: 120
     height: 40
   tint: {r: 0.9607844, g: 0.44705886, b: 0.7019608, a: 1}
   useCustomTint: 1
@@ -4015,7 +4030,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2130.1797
     y: 1497.9708
-    width: 214
+    width: 198.25873
     height: 40
   tint: {r: 0.8980393, g: 0.41960788, b: 0.654902, a: 1}
   useCustomTint: 1
@@ -4127,7 +4142,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1880.0215
     y: 1487.8844
-    width: 200
+    width: 185.3234
     height: 40
   tint: {r: 0.97647065, g: 0.454902, b: 0.7137255, a: 1}
   useCustomTint: 1
@@ -4284,7 +4299,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2414.9978
     y: 1154.44
-    width: 184
+    width: 168.40797
     height: 40
   tint: {r: 0.8235295, g: 0.039215688, b: 0, a: 1}
   useCustomTint: 1
@@ -4521,7 +4536,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1382.9087
     y: 472.14023
-    width: 258
+    width: 234.07962
     height: 40
   tint: {r: 0.95294124, g: 0.04705883, b: 0, a: 1}
   useCustomTint: 1
@@ -5606,7 +5621,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -942.6955
     y: 1883.1211
-    width: 148
+    width: 137.5622
     height: 40
   tint: {r: 0.909804, g: 0.42352945, b: 0.6627451, a: 1}
   useCustomTint: 1
@@ -5810,7 +5825,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1459.3325
     y: 1722.853
-    width: 140
+    width: 129.60199
     height: 40
   tint: {r: 0.83921576, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -5863,9 +5878,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -1226.431
+    x: -1224.7916
     y: 1881.7928
-    width: 130
+    width: 121.6418
     height: 40
   tint: {r: 0.909804, g: 0.42352945, b: 0.6627451, a: 1}
   useCustomTint: 1
@@ -6002,7 +6017,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1692.5266
     y: 1860.0585
-    width: 160
+    width: 148.50748
     height: 40
   tint: {r: 0.909804, g: 0.42352945, b: 0.6627451, a: 1}
   useCustomTint: 1
@@ -6205,9 +6220,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1515.9661
-    y: 42.846085
-    width: 176
+    x: 1518.4977
+    y: 40.314438
+    width: 163.43285
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -6317,7 +6332,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1686.4646
     y: 191.08394
-    width: 198
+    width: 182.33832
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -6389,9 +6404,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1373.5115
-    y: 181.10962
-    width: 186
+    x: 1374.9401
+    y: 182.5382
+    width: 170.39803
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -6516,7 +6531,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 0
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147070
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6720,7 +6735,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147076
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6799,9 +6814,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -926.7248
-    y: -135.49495
-    width: 262
+    x: -959.51166
+    y: -128.93758
+    width: 239.05475
     height: 40
   tint: {r: 0.87058824, g: 0.4039216, b: 0.43131095, a: 1}
   useCustomTint: 1
@@ -6873,7 +6888,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147081
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7014,7 +7029,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1000.49066
     y: -470.81995
-    width: 230
+    width: 211.19405
     height: 40
   tint: {r: 0.8196079, g: 0.3803922, b: 0.40784317, a: 1}
   useCustomTint: 1
@@ -7242,7 +7257,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1637.4878
     y: -162.82333
-    width: 168
+    width: 152.48758
     height: 40
   tint: {r: 0.7666936, g: 0.4039216, b: 0.87058824, a: 1}
   useCustomTint: 1
@@ -7282,7 +7297,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 1
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147093
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7369,7 +7384,7 @@ MonoBehaviour:
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
-  setMenuDialog: {fileID: 0}
+  setMenuDialog: {fileID: 1306596447}
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
@@ -7389,7 +7404,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1301.6624
     y: -112.801414
-    width: 190
+    width: 176.36816
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -7509,7 +7524,7 @@ MonoBehaviour:
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
-  setMenuDialog: {fileID: 0}
+  setMenuDialog: {fileID: 1306596447}
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
@@ -7550,7 +7565,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1299.5574
     y: -194.66571
-    width: 208
+    width: 193.2836
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -7654,7 +7669,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 0
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147103
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7735,7 +7750,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1688.9166
     y: -403.86215
-    width: 216
+    width: 201.2438
     height: 40
   tint: {r: 0.4039216, g: 0.8535381, b: 0.87058824, a: 1}
   useCustomTint: 1
@@ -7785,7 +7800,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1335.3679
     y: -339.42007
-    width: 286
+    width: 256.9652
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -7897,7 +7912,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1333.263
     y: -421.28436
-    width: 222
+    width: 203.23386
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -8165,7 +8180,7 @@ MonoBehaviour:
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
-  setMenuDialog: {fileID: 0}
+  setMenuDialog: {fileID: 1306596447}
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
@@ -8191,7 +8206,7 @@ MonoBehaviour:
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
-  setMenuDialog: {fileID: 0}
+  setMenuDialog: {fileID: 1306596447}
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
@@ -8211,7 +8226,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2025.7913
     y: -407.5
-    width: 158
+    width: 146.51743
     height: 40
   tint: {r: 0.92941177, g: 0.50254434, b: 0.4352941, a: 1}
   useCustomTint: 1
@@ -8315,7 +8330,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1763.4989
     y: 352.50995
-    width: 144
+    width: 134.57712
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -8370,7 +8385,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2010.4939
     y: 513.4868
-    width: 226
+    width: 206.21892
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -8482,7 +8497,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1240.479
     y: 365.13467
-    width: 134
+    width: 124.62688
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -8537,7 +8552,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 978.0305
     y: 506.7743
-    width: 296
+    width: 266.91547
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -8673,9 +8688,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1366.5608
+    x: 1367.9894
     y: 507.17566
-    width: 204
+    width: 186.31842
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -8798,7 +8813,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 0
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147139
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -9033,7 +9048,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1628.1407
     y: 527.4955
-    width: 274
+    width: 249.005
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -9157,7 +9172,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 0
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147147
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -9222,6 +9237,21 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147148
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb91b566ceda411bad1e9d3c3243ecc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 0
+  key: email_visited_Boss
+  value: 0
 --- !u!114 &891147149
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -9246,12 +9276,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 891146916}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5d02d9822eec54c98afe95bb497211b3, type: 3}
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scope: 0
-  key: hesi
-  value: 0
+  itemId: 426
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 891146925}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 1
 --- !u!114 &891147151
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -9462,7 +9498,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 423.2173
     y: 949.80365
-    width: 340
+    width: 311.6916
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -9658,8 +9694,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 1740.8384
-    y: 961.5232
-    width: 282
+    y: 960.0946
+    width: 257.9602
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -9771,7 +9807,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2217.769
     y: 961.92456
-    width: 378
+    width: 340.5473
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -9883,7 +9919,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3071.281
     y: 851.85626
-    width: 158
+    width: 146.51743
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -9995,7 +10031,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2745.3132
     y: 959.53284
-    width: 206
+    width: 188.30847
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -10107,7 +10143,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 813.3108
     y: 950.205
-    width: 338
+    width: 308.7065
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -10219,7 +10255,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1555.8396
     y: 956.1169
-    width: 156
+    width: 144.52737
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -10331,7 +10367,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1247.1892
     y: 957.9312
-    width: 158
+    width: 146.51743
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -10424,7 +10460,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 0
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147183
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10505,7 +10541,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1994.0936
     y: 796.40735
-    width: 264
+    width: 237.0647
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -10595,7 +10631,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 0
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147188
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10676,7 +10712,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2275.779
     y: 672.72095
-    width: 208
+    width: 190.29852
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -10766,7 +10802,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 0
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147193
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10847,7 +10883,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1353.4672
     y: 760.83307
-    width: 260
+    width: 238.05972
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -10938,7 +10974,7 @@ MonoBehaviour:
   waitForClick: 1
   stopVoiceover: 0
   waitForVO: 0
-  setSayDialog: {fileID: 0}
+  setSayDialog: {fileID: 1878529832}
 --- !u!114 &891147198
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -11019,7 +11055,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 704.5014
     y: 702.1633
-    width: 332
+    width: 297.76123
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -11676,6 +11712,982 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147218
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 425
+  indentLevel: 0
+  variable: {fileID: 891147228}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147219
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 950.6739
+    y: -336.0351
+    width: 201.2438
+    height: 40
+  tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
+  useCustomTint: 1
+  itemId: 428
+  blockName: After the car accident they
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147218}
+  - {fileID: 891147150}
+--- !u!114 &891147220
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 423
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 891146925}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 1
+--- !u!114 &891147221
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 950.40826
+    y: -568.50336
+    width: 233.0846
+    height: 40
+  tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
+  useCustomTint: 1
+  itemId: 429
+  blockName: Due to unforseen circumstances
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147220}
+--- !u!114 &891147222
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 421
+  indentLevel: 0
+  text: Due to unforseen circumstances I will not be able to come into work for another
+    week. I really appreciate your understanding
+  description: 
+  targetBlock: {fileID: 891147221}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 1306596447}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147223
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 420
+  indentLevel: 0
+  text: 'After the car accident they have found potential complications that I have
+    not informed you of as I am still trying to process myself... Additionally, I
+    am experiencing difficulties with both my family and my partner. I''m trying to
+    get myself together before going back to work rather than contributing half heartedly.
+    I can continue my work from home if you will allow or stay on as just a salesman
+    for now. '
+  description: 
+  targetBlock: {fileID: 891147219}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 1306596447}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147224
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 419
+  indentLevel: 0
+  storyText: 'Robin, I have been informed by one of your coworkers that you have been
+    taking advantage of my absence and you continue to be absent after the return
+    date we established. I''d like to believe I am an understanding boss - care to
+    explain? '
+  description: 
+  character: {fileID: 1935506228}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 0
+  waitForClick: 1
+  stopVoiceover: 0
+  waitForVO: 0
+  setSayDialog: {fileID: 1878529832}
+--- !u!114 &891147225
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 418
+  indentLevel: 0
+  variable: {fileID: 891147148}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 1
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147226
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 690.706
+    y: -435.4544
+    width: 137.5622
+    height: 40
+  tint: {r: 0.49803925, g: 0.3019608, b: 0.8745099, a: 1}
+  useCustomTint: 1
+  itemId: 430
+  blockName: Mr_Smith_Boss
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147225}
+  - {fileID: 891147224}
+  - {fileID: 891147223}
+  - {fileID: 891147222}
+--- !u!114 &891147227
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d02d9822eec54c98afe95bb497211b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 0
+  key: boss_email_start
+  value: 0
+--- !u!114 &891147228
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d02d9822eec54c98afe95bb497211b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scope: 0
+  key: Boss_Another_Chance
+  value: 0
+--- !u!114 &891147229
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 427
+  indentLevel: 2
+  text: Mr. Smith (Boss)
+  description: 
+  targetBlock: {fileID: 891147226}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147230
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c5622b8a80845c980954170295f292, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 432
+  indentLevel: 1
+  compareOperator: 0
+  variable: {fileID: 891147228}
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147231
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93cb9773f2ca04e2bbf7a68ccfc23267, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 431
+  indentLevel: 1
+--- !u!114 &891147232
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 443
+  indentLevel: 0
+  storyText: 'email from BOSS: another chance'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &891147233
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 442
+  indentLevel: 0
+  storyText: 'email from BOSS: demotion'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &891147234
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 1665.2218
+    y: -323.59186
+    width: 245.0249
+    height: 40
+  tint: {r: 0.569923, g: 0.3443396, b: 1, a: 1}
+  useCustomTint: 1
+  itemId: 447
+  blockName: 'email from BOSS: another chance'
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147232}
+  - {fileID: 891147249}
+  - {fileID: 891147246}
+--- !u!114 &891147235
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 441
+  indentLevel: 0
+  text: 'After the car accident they have found potential complications that I have
+    not informed you of as I am still trying to process myself... Additionally, I
+    am experiencing difficulties with both my family and my partner. I''m trying to
+    get myself together before going back to work rather than contributing half heartedly.
+    I can continue my work from home if you will allow or stay on as just a salesman
+    for now. '
+  description: 
+  targetBlock: {fileID: 891147234}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 1306596447}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147236
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 440
+  indentLevel: 0
+  storyText: 'You are well aware that you are expected to balance your work and personal
+    life , but I am willing to give you another chance to prove you can do so. I will
+    push back your presentation dates so your team has another week to work on your
+    proposal, but be aware that the other team also now has an extra week. If you
+    still want this promotion, do not let me down. I have high hopes for you in this
+    company. '
+  description: 
+  character: {fileID: 1935506228}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 0
+  waitForClick: 1
+  stopVoiceover: 0
+  waitForVO: 0
+  setSayDialog: {fileID: 1878529832}
+--- !u!114 &891147237
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 439
+  indentLevel: 0
+  variable: {fileID: 891147148}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 2
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147238
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 1268.2351
+    y: -326.97034
+    width: 287.81097
+    height: 40
+  tint: {r: 0.49803925, g: 0.3019608, b: 0.8745099, a: 1}
+  useCustomTint: 1
+  itemId: 448
+  blockName: You are well aware that you are expected
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147237}
+  - {fileID: 891147236}
+  - {fileID: 891147235}
+--- !u!114 &891147239
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 436
+  indentLevel: 0
+  text: 'email from BOSS: demotion'
+  description: 
+  targetBlock: {fileID: 891146928}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 1306596447}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147240
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 435
+  indentLevel: 0
+  storyText: 'We need team players who will not drop out on their projects so your
+    position will be made vacant. While you are new to the working world, you are
+    well aware that you are expected to balance your work and personal life and you
+    have not demonstrated any ability to do so. You will receive your severence package
+    from HR in the upcoming weeks. '
+  description: 
+  character: {fileID: 1935506228}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 0
+  waitForClick: 1
+  stopVoiceover: 0
+  waitForVO: 0
+  setSayDialog: {fileID: 1878529832}
+--- !u!114 &891147241
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 434
+  indentLevel: 0
+  variable: {fileID: 891147148}
+  setOperator: 0
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 2
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &891147242
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 1291.4249
+    y: -549.93866
+    width: 178.35823
+    height: 40
+  tint: {r: 0.49803925, g: 0.3019608, b: 0.8745099, a: 1}
+  useCustomTint: 1
+  itemId: 449
+  blockName: We need team players
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 891147241}
+  - {fileID: 891147240}
+  - {fileID: 891147239}
+--- !u!114 &891147243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 446
+  indentLevel: 2
+  text: 'Mr. Smith (Boss) Re:'
+  description: 
+  targetBlock: {fileID: 891147242}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 857447021}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa968f01a7f9496bb50e13dfe16760d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 445
+  indentLevel: 1
+--- !u!114 &891147245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 444
+  indentLevel: 2
+  text: 'Mr. Smith (Boss) Re:'
+  description: 
+  targetBlock: {fileID: 891147238}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 857447021}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &891147246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 453
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 891146925}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &891147247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 451
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 891146925}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &891147248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3315ad2ebb85443909a1203d56d9344e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 450
+  indentLevel: 0
+  _duration:
+    floatRef: {fileID: 0}
+    floatVal: 5
+  durationOLD: 0
+--- !u!114 &891147249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3315ad2ebb85443909a1203d56d9344e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 452
+  indentLevel: 0
+  _duration:
+    floatRef: {fileID: 0}
+    floatVal: 5
+  durationOLD: 0
 --- !u!1 &1039333199
 GameObject:
   m_ObjectHideFlags: 0

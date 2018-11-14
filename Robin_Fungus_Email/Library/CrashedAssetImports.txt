@@ -1,1 +1,0 @@
-Assets/Fungus/Textures/InterfacePS_new.png
