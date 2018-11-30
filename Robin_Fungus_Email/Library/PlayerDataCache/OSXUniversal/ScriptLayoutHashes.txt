@@ -1,6 +1,6 @@
 OSXUniversal
 PlayerPath?
-C:/Users/Hesi/Documents/macbuild_robin.app
+E:/IOSBUILD.app
 SceneListBegin?
 Assets/Scenes/Robin_Story.unity
 SceneListEnd?
