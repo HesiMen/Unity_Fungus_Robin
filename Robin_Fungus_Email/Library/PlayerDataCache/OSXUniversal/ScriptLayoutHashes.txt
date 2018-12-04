@@ -1,6 +1,6 @@
 OSXUniversal
 PlayerPath?
-E:/IOSBUILD.app
+E:/Final_build_ugotmail/mac_build/ugotmail.app
 SceneListBegin?
 Assets/Scenes/Robin_Story.unity
 SceneListEnd?
