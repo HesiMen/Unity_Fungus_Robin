@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -137,8 +137,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 12797900}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.998, y: -0.196, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.259, y: -0.569, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 1
@@ -703,8 +703,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 293512999}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.999, y: -0.202, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.259, y: -0.574, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 5
@@ -861,8 +861,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 396139439}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.987, y: -0.204, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.249, y: -0.576, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 8
@@ -1792,7 +1792,7 @@ PrefabInstance:
       objectReference: {fileID: 891147542}
     - target: {fileID: 11430050, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: blockViewHeight
-      value: 715
+      value: 492
       objectReference: {fileID: 0}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[153]
@@ -2153,7 +2153,7 @@ PrefabInstance:
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[222]
       value: 
-      objectReference: {fileID: 891147390}
+      objectReference: {fileID: 891148098}
     - target: {fileID: 11433304, guid: 5e7fbc8d4eb714b279eeeef2262c1e1a, type: 3}
       propertyPath: commandList.Array.data[223]
       value: 
@@ -3993,8 +3993,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 508162605}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.999, y: -0.202, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.259, y: -0.574, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 6
@@ -4738,7 +4738,7 @@ PrefabInstance:
     - target: {fileID: 11488904, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: a12777b37300def4e856da6e7abae9c8,
+      objectReference: {fileID: 21300000, guid: 505cf13535edc5e499c64b03c025eae3,
         type: 3}
     - target: {fileID: 11488904, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_Type
@@ -4910,6 +4910,10 @@ PrefabInstance:
     - target: {fileID: 11488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
       propertyPath: m_FontData.m_MinSize
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
@@ -5350,6 +5354,10 @@ PrefabInstance:
       propertyPath: m_FontData.m_MinSize
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 11488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
 --- !u!114 &857447021 stripped
@@ -5384,7 +5392,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 416
   indentLevel: 3
-  text: 'mom                  Re: How are u !'
+  text: 'mom                       Re: How are u !'
   description: second emai.
   targetBlock: {fileID: 891146935}
   hideIfVisited: 0
@@ -5523,7 +5531,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1918.9407
     y: 101.9021
-    width: 142
+    width: 140
     height: 40
   tint: {r: 1, g: 0.051016845, b: 0, a: 1}
   useCustomTint: 1
@@ -5593,7 +5601,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1771.9528
     y: 300.67355
-    width: 146
+    width: 148
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -5670,10 +5678,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 21
   indentLevel: 0
-  storyText: ' Hi honey, I just wanted to check in since I haven''t heard from u in
-    a while... I know that the past weeks have been really hard on u, but i don''t
+  storyText: "Hi honey, I just wanted to check in since I haven't heard from u in
+    a while... I know that the past weeks have been really hard on u, but i don't
     want you to shut me out again. Do u want me to book an appointment with ur therapist?
-    Can totally do no problem. LMK. Love you. ~mom '
+    Can totally do no problem. \nLMK. Love you. ~mom "
   description: Therapy?
   character: {fileID: 1827483928}
   portrait: {fileID: 21300000, guid: 51875f095ef535a4680a80daa4037285, type: 3}
@@ -5799,7 +5807,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 118
   indentLevel: 3
-  text: 'mom                  Re: How are u !'
+  text: 'mom                       Re: How are u !'
   description: second emai.
   targetBlock: {fileID: 891147011}
   hideIfVisited: 0
@@ -5826,7 +5834,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1801.1223
     y: 485.69952
-    width: 266
+    width: 264
     height: 40
   tint: {r: 0.9215687, g: 0.04705883, b: 0, a: 1}
   useCustomTint: 1
@@ -6237,7 +6245,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 43
   indentLevel: 1
-  text: "mom\t How are u !"
+  text: "mom\t    How are u !"
   description: first_email
   targetBlock: {fileID: 891146921}
   hideIfVisited: 0
@@ -6357,7 +6365,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1547.5593
     y: 1199.032
-    width: 266
+    width: 264
     height: 40
   tint: {r: 0.83921576, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -6401,7 +6409,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -766.8075
     y: 1714.6859
-    width: 178
+    width: 182
     height: 40
   tint: {r: 0.83921576, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -6452,7 +6460,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1530.2668
     y: 952.45776
-    width: 162
+    width: 164
     height: 40
   tint: {r: 0.8980393, g: 0.41960788, b: 0.654902, a: 1}
   useCustomTint: 1
@@ -6663,7 +6671,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -547.86993
     y: -318.22934
-    width: 174
+    width: 172
     height: 40
   tint: {r: 0.909804, g: 0.42352945, b: 0.6627451, a: 1}
   useCustomTint: 1
@@ -6694,7 +6702,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2066.3809
     y: 958.1875
-    width: 154
+    width: 150
     height: 40
   tint: {r: 0.9607844, g: 0.44705886, b: 0.7019608, a: 1}
   useCustomTint: 1
@@ -6831,7 +6839,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2390.715
     y: 958.1567
-    width: 122
+    width: 124
     height: 40
   tint: {r: 0.87843144, g: 0.41176474, b: 0.6392157, a: 1}
   useCustomTint: 1
@@ -7161,8 +7169,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 75
   indentLevel: 0
-  text: They said they found something concerning... don't worry about it im sure
-    it will be fine.
+  text: They said they found something concerning, but they have to think worst case
+    scenario so don't worry about it im sure it will be fine.
   description: 
   targetBlock: {fileID: 891146984}
   hideIfVisited: 0
@@ -7330,7 +7338,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 179
   indentLevel: 3
-  text: "mom \t\tRe: How are u !"
+  text: "mom \t\t  Re: How are u !"
   description: 
   targetBlock: {fileID: 891146975}
   hideIfVisited: 0
@@ -7357,7 +7365,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2119.8267
     y: 1165.528
-    width: 254
+    width: 256
     height: 40
   tint: {r: 0.8705883, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -7399,7 +7407,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 130
   indentLevel: 0
-  text: "Pain has lessened\r but they're still waiting on tests."
+  text: Pain has lessened but they're still waiting on tests.
   description: 
   targetBlock: {fileID: 891146999}
   hideIfVisited: 0
@@ -7451,7 +7459,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 128
   indentLevel: 0
-  storyText: 'how so? She was barely injured... btw how is your leg? ~mom '
+  storyText: 'how so? btw how is your leg? ~mom '
   description: No to thera[y
   character: {fileID: 1827483928}
   portrait: {fileID: 21300000, guid: 51875f095ef535a4680a80daa4037285, type: 3}
@@ -7542,7 +7550,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 177
   indentLevel: 3
-  text: "mom \t\tRe: How are u !"
+  text: "mom \t\t  Re: How are u !"
   description: To Third
   targetBlock: {fileID: 891147005}
   hideIfVisited: 0
@@ -7830,7 +7838,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1637.2472
     y: 1487.9613
-    width: 186
+    width: 176
     height: 40
   tint: {r: 0.97647065, g: 0.454902, b: 0.7137255, a: 1}
   useCustomTint: 1
@@ -7942,7 +7950,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2602.3916
     y: 1577.5104
-    width: 202
+    width: 204
     height: 40
   tint: {r: 0.87843144, g: 0.41176474, b: 0.6392157, a: 1}
   useCustomTint: 1
@@ -8055,7 +8063,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2344.2432
     y: 1583.59
-    width: 120
+    width: 122
     height: 40
   tint: {r: 0.9607844, g: 0.44705886, b: 0.7019608, a: 1}
   useCustomTint: 1
@@ -8168,7 +8176,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2130.1797
     y: 1497.9708
-    width: 206
+    width: 214
     height: 40
   tint: {r: 0.8980393, g: 0.41960788, b: 0.654902, a: 1}
   useCustomTint: 1
@@ -8280,7 +8288,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1875.3704
     y: 1487.8844
-    width: 206
+    width: 200
     height: 40
   tint: {r: 0.97647065, g: 0.454902, b: 0.7137255, a: 1}
   useCustomTint: 1
@@ -8355,7 +8363,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 108
   indentLevel: 0
-  text: i'll think about it after i hear back from the doctor about my leg
+  text: I'll think about it after I hear back from the doctor about my leg
   description: 
   targetBlock: {fileID: 891146950}
   hideIfVisited: 0
@@ -8380,8 +8388,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 107
   indentLevel: 0
-  text: "I'm sure, I'm far\r too busy with\r work, and jordan, and physical recovery
-    to begin with...."
+  text: I'm sure. I'm far too busy with work and Jordan and physical recovery to begin
+    with...
   description: 
   targetBlock: {fileID: 891146954}
   hideIfVisited: 0
@@ -8437,7 +8445,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2416.4897
     y: 1117.2308
-    width: 186
+    width: 184
     height: 40
   tint: {r: 0.8235295, g: 0.039215688, b: 0, a: 1}
   useCustomTint: 1
@@ -9798,7 +9806,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -938.2724
     y: 1878.8029
-    width: 146
+    width: 148
     height: 40
   tint: {r: 0.909804, g: 0.42352945, b: 0.6627451, a: 1}
   useCustomTint: 1
@@ -10003,7 +10011,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1453.5759
     y: 1726.853
-    width: 142
+    width: 140
     height: 40
   tint: {r: 0.83921576, g: 0.043137256, b: 0, a: 1}
   useCustomTint: 1
@@ -10218,7 +10226,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1680.5266
     y: 1860.0585
-    width: 158
+    width: 160
     height: 40
   tint: {r: 0.909804, g: 0.42352945, b: 0.6627451, a: 1}
   useCustomTint: 1
@@ -10423,7 +10431,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1522.4977
     y: 40.314438
-    width: 178
+    width: 176
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -10484,7 +10492,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 244
   indentLevel: 1
-  text: "Steven (Work)\tProject Update Needed - Checking in"
+  text: "Steven\t\tProject Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147058}
   hideIfVisited: 0
@@ -10510,7 +10518,7 @@ MonoBehaviour:
   itemId: 238
   indentLevel: 0
   text: 'Hey Steven, Sorry, I''ve got so many things going on right now. I don''t
-    think id even be helpful to the team. I know the promotion would mean the world
+    think I''d even be helpful to the team. I know the promotion would mean the world
     for your kids, but I think I''ve contributed all I can for now. I appreciate your
     understanding. '
   description: 
@@ -10539,7 +10547,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1689.4058
     y: 191.08394
-    width: 202
+    width: 198
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -10613,7 +10621,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1374.9401
     y: 182.5382
-    width: 182
+    width: 186
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -10723,10 +10731,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 241
   indentLevel: 0
-  storyText: Hey, I'm just checking in after your accident... Boss man is on vacation
-    but he said you'd be back by now... not trying to stress you out more but like
-    our marketing plan is due next week and you know this could be huge for both of
-    us - you coming back soon?
+  storyText: "Hey Robin, \nI'm just checking in after your accident... Boss man is
+    on vacation but he said you'd be back by now... not trying to stress you out more
+    but our marketing plan is due next week and you know this could be huge for both
+    of us - you coming back soon?"
   description: 
   character: {fileID: 1935506228}
   portrait: {fileID: 21300000, guid: 733902271d4fe2043ae5a0b7a5ae4f2e, type: 3}
@@ -11030,7 +11038,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -938.3947
     y: -175.99643
-    width: 254
+    width: 262
     height: 40
   tint: {r: 0.87058824, g: 0.4039216, b: 0.43131095, a: 1}
   useCustomTint: 1
@@ -11102,8 +11110,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'Robin, ur office left a voicemail on the house phone looking for you...why
     haven''t u been going to work? I know you just experienced trauma but as an adult
-    u have to get used to juggling a lot at once... if u are thinking of a baby and
-    a new house u have to pay ur bills~mom '
+    u have to get used to juggling a lot at once... if u are thinking of a baby u
+    have to pay ur bills ~mom '
   description: 
   character: {fileID: 1827483928}
   portrait: {fileID: 21300000, guid: 51875f095ef535a4680a80daa4037285, type: 3}
@@ -11253,7 +11261,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -926.11957
     y: -427.60666
-    width: 226
+    width: 230
     height: 40
   tint: {r: 0.8196079, g: 0.3803922, b: 0.40784317, a: 1}
   useCustomTint: 1
@@ -11491,9 +11499,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -1631.9952
-    y: -162.82333
-    width: 162
+    x: -1625.5436
+    y: -156.37172
+    width: 168
     height: 40
   tint: {r: 0.7666936, g: 0.4039216, b: 0.87058824, a: 1}
   useCustomTint: 1
@@ -11520,7 +11528,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 282
   indentLevel: 0
-  storyText: Honey, come home ASAP!! I have big news!! <3 Jordan
+  storyText: 'Appointment notification: Reminder to leave. OB/GYN Appointment in 15
+    minutes. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11752,9 +11761,8 @@ MonoBehaviour:
   itemId: 283
   indentLevel: 0
   text: I can't focus on my other responsibilities sometimes when I'm so consumed
-    by jordan... I want to be a good partner and future parent and that weight is
-    crushing me. we don't even know for sure yet... I know i have to shape up if/when
-    the news comes
+    by Jordan... I want to be a good partner and future parent and that weight is
+    crushing me. I know I have to shape up if/when the news comes.
   description: 
   targetBlock: {fileID: 891147100}
   hideIfVisited: 0
@@ -11802,7 +11810,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1299.5574
     y: -192.84753
-    width: 210
+    width: 208
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -11893,10 +11901,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 279
   indentLevel: 0
-  storyText: 'Rob I understand and I know you just experienced trauma but as an adult
-    you have to get used to juggling a lot at once.... your mom told me they''re running
+  storyText: Rob I understand and I know you just experienced trauma but as an adult
+    you have to get used to juggling a lot at once.... your mom told me they're running
     tests on your leg, you didnt mention any of that to me.. have you received any
-    update from the doctor? '
+    update from the doctor? - Jane
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11989,7 +11997,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1685.4922
     y: -400.7288
-    width: 210
+    width: 216
     height: 40
   tint: {r: 0.4039216, g: 0.8535381, b: 0.87058824, a: 1}
   useCustomTint: 1
@@ -12056,7 +12064,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1333.8357
     y: -340.4923
-    width: 278
+    width: 286
     height: 40
   tint: {r: 1, g: 0.4669811, b: 0.72852576, a: 1}
   useCustomTint: 1
@@ -12520,9 +12528,8 @@ MonoBehaviour:
   text: 'REPLY TO JUST JANE:
 
     I wasn''t trying to hide anything... I honestly forget about my other stuff sometimes
-    when I''m talking about jJordan... I want to be a good partner and future parent
-    and that weight is crushing me. I''m waiting for the doctor now, I''ll keep you
-    posted. '
+    with all the Jordan stuff... I want to be a good partner / future parent and that
+    weight is crushing me. I''ll keep you posted on news from the doctor.'
   description: 
   targetBlock: {fileID: 891146925}
   hideIfVisited: 0
@@ -12549,7 +12556,7 @@ MonoBehaviour:
   indentLevel: 1
   text: 'REPLY ALL:
 
-    I''m actually waiting at the office right now... I will let you both know '
+    I''m actually headed to the office right now... I will let you both know '
   description: 
   targetBlock: {fileID: 891146925}
   hideIfVisited: 0
@@ -12683,7 +12690,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1767.4989
     y: 352.50995
-    width: 142
+    width: 144
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -12753,7 +12760,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2010.4939
     y: 513.4868
-    width: 230
+    width: 226
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -12799,7 +12806,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 327
   indentLevel: 3
-  text: "Steven (Work) \tRe:Project Update Needed - Checking in"
+  text: "Steven\t\tRe:Project Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147122}
   hideIfVisited: 0
@@ -12838,7 +12845,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 325
   indentLevel: 3
-  text: "Steven (Work)\t Re:Project Update Needed - Checking in"
+  text: "Steven\t\tRe:Project Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147129}
   hideIfVisited: 0
@@ -12936,7 +12943,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 978.0305
     y: 506.7743
-    width: 282
+    width: 296
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -13074,7 +13081,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1367.9894
     y: 507.17566
-    width: 198
+    width: 204
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -13404,8 +13411,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 305
   indentLevel: 0
-  text: I think I'm going to email Mr Smith and put in my two weeks or ask for leave,
-    I just need a break right now
+  text: I think I'm going to email Mr. Smith and put in my two weeks notice or ask
+    for leave. I don't know which yet, I just need a break right now.
   description: 
   targetBlock: {fileID: 891147143}
   hideIfVisited: 0
@@ -13432,7 +13439,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1628.1407
     y: 527.4955
-    width: 270
+    width: 274
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -13543,7 +13550,7 @@ MonoBehaviour:
   itemId: 304
   indentLevel: 0
   storyText: Robin, We need you... no one else has your presentation skills - what
-    do you mean you have too much going on? You're alwyas the most put together of
+    do you mean you have too much going on? You're always the most put together of
     all of us. This is a huge deal and we really have a shot, but not without you.
   description: 
   character: {fileID: 1935506228}
@@ -13882,7 +13889,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 79.73084
     y: 945.99115
-    width: 346
+    width: 340
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -14454,7 +14461,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 479.99826
     y: 942.3925
-    width: 346
+    width: 338
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -14527,7 +14534,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1610.7146
     y: 1046.0544
-    width: 362
+    width: 372
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -14593,7 +14600,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 966.8142
     y: 990.0562
-    width: 358
+    width: 364
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -14622,9 +14629,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 356
   indentLevel: 1
-  text: Steven, I really like to keep my private life to myself. I appreciate your
-    understanding and concern, but I know whats best for me, and I'll be emailing
-    Mr. Smith.
+  text: Steven, I really like to keep my private life to myself. I appreciate your  concern,
+    but I know whats best for me, and I'll be emailing Mr. Smith.
   description: 
   targetBlock: {fileID: 891147164}
   hideIfVisited: 0
@@ -14650,8 +14656,7 @@ MonoBehaviour:
   itemId: 355
   indentLevel: 1
   text: There were some complications after the accident and quite a bit going on
-    in my family life..  I appreciate your understanding and concern, but I know whats
-    best for me.
+    in my family life... I appreciate your concern, but I know whats best for me.
   description: 
   targetBlock: {fileID: 891147161}
   hideIfVisited: 0
@@ -14771,7 +14776,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2155.0176
     y: 759.78235
-    width: 262
+    width: 264
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -14965,7 +14970,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2275.779
     y: 672.72095
-    width: 206
+    width: 208
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -15161,7 +15166,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1367.989
     y: 758.6592
-    width: 262
+    width: 260
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -15210,7 +15215,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 341
   indentLevel: 1
-  text: i'm trying my best... i'll be in as soon as i can
+  text: 'I''m trying my best... I''ll be back in as soon as I can, I promise. Trying
+    for next week. '
   description: 
   targetBlock: {fileID: 891147173}
   hideIfVisited: 0
@@ -15355,7 +15361,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 359.18893
     y: 694.3508
-    width: 326
+    width: 332
     height: 40
   tint: {r: 0.24056602, g: 0.58492535, b: 1, a: 1}
   useCustomTint: 1
@@ -15418,7 +15424,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 400
   indentLevel: 3
-  text: "Steven (Work) \tRe:Project Update Needed - Checking in"
+  text: "Steven\t\tRe:Project Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147189}
   hideIfVisited: 0
@@ -15521,7 +15527,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 402
   indentLevel: 3
-  text: "Steven (Work) \tRe:Project Update Needed - Checking in"
+  text: "Steven\t\tRe:Project Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147184}
   hideIfVisited: 0
@@ -15624,7 +15630,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 404
   indentLevel: 3
-  text: "Steven (Work) \tRe:Project Update Needed - Checking in"
+  text: "Steven\t\tRe:Project Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147194}
   hideIfVisited: 0
@@ -15727,7 +15733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 398
   indentLevel: 3
-  text: "Steven (Work) \tRe:Project Update Needed - Checking in"
+  text: "Steven\t\tRe:Project Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147199}
   hideIfVisited: 0
@@ -16131,7 +16137,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 950.6739
     y: -336.0351
-    width: 218
+    width: 216
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -16179,7 +16185,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 950.40826
     y: -566.06433
-    width: 258
+    width: 252
     height: 40
   tint: {r: 0.6035511, g: 0.9339623, b: 0.93058705, a: 1}
   useCustomTint: 1
@@ -16230,12 +16236,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 420
   indentLevel: 0
-  text: 'After the car accident they have found potential complications that I have
-    not informed you of as I am still trying to process myself... Additionally, I
-    am experiencing difficulties with both my family and my partner. I''m trying to
-    get myself together before going back to work rather than contributing half heartedly.
-    I can continue my work from home if you will allow or stay on as just a salesman
-    for now. '
+  text: 'After the car accident, they have identified potential complications... Additionally,
+    I am experiencing difficulties with both my family and my partner. I''m trying
+    to get myself together before going back to work rather than contributing half
+    heartedly, and I apologize for not notifying you sooner. I can continue my work
+    from home if you will allow or resign my participation in the promotion proposal
+    competition. '
   description: 
   targetBlock: {fileID: 891147219}
   hideIfVisited: 0
@@ -16356,7 +16362,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.2265
     y: -439.4544
-    width: 150
+    width: 146
     height: 40
   tint: {r: 0.49803925, g: 0.3019608, b: 0.8745099, a: 1}
   useCustomTint: 1
@@ -16592,7 +16598,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2060
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147337}
   hideIfVisited: 0
@@ -16617,12 +16623,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 440
   indentLevel: 0
-  storyText: 'You are well aware that you are expected to balance your work and personal
-    life , but I am willing to give you another chance to prove you can do so. I will
+  storyText: You are well aware that you are expected to balance your work and personal
+    life, but I am willing to give you another chance to prove you can do so. I will
     push back your presentation dates so your team has another week to work on your
     proposal, but be aware that the other team also now has an extra week. If you
-    still want this promotion, do not let me down. I have high hopes for you in this
-    company. '
+    still want this promotion, do not let me down.
   description: 
   character: {fileID: 1275905149}
   portrait: {fileID: 21300000, guid: a502d5f49e49b7244b4b05867040bde5, type: 3}
@@ -16715,7 +16720,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1269.605
     y: -322.97034
-    width: 310
+    width: 318
     height: 40
   tint: {r: 0.49803925, g: 0.3019608, b: 0.8745099, a: 1}
   useCustomTint: 1
@@ -16805,11 +16810,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 435
   indentLevel: 0
-  storyText: 'We need team players who will not drop out on their projects so your
+  storyText: 'We need team players who will not drop out on their projects, so your
     position will be made vacant. While you are new to the working world, you are
     well aware that you are expected to balance your work and personal life and you
-    have not demonstrated any ability to do so. You will receive your severence package
-    from HR in the upcoming weeks. '
+    have not demonstrated any ability to do so. Please return to the office ASAP to
+    clear out your cubicle. '
   description: 
   character: {fileID: 1275905149}
   portrait: {fileID: 21300000, guid: a502d5f49e49b7244b4b05867040bde5, type: 3}
@@ -17378,7 +17383,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1148.6069
     y: 1470.6663
-    width: 314
+    width: 316
     height: 40
   tint: {r: 0.97647065, g: 0.454902, b: 0.7137255, a: 1}
   useCustomTint: 1
@@ -17614,7 +17619,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3341.4724
     y: -1152.497
-    width: 258
+    width: 252
     height: 40
   tint: {r: 0.23137257, g: 0.9686275, b: 0.5529412, a: 1}
   useCustomTint: 1
@@ -17808,7 +17813,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 789.5235
     y: -1567.7174
-    width: 198
+    width: 200
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -18033,7 +18038,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2985.0798
     y: -1504.3259
-    width: 450
+    width: 454
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -18315,7 +18320,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1007.1577
     y: -1317.6467
-    width: 166
+    width: 164
     height: 40
   tint: {r: 0.23137257, g: 0.9686275, b: 0.5529412, a: 1}
   useCustomTint: 1
@@ -18441,7 +18446,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 392.01373
     y: -1543.7438
-    width: 310
+    width: 312
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -18613,7 +18618,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 160.05785
     y: -1261.8446
-    width: 150
+    width: 148
     height: 40
   tint: {r: 0.23137257, g: 0.9686275, b: 0.5529412, a: 1}
   useCustomTint: 1
@@ -18743,7 +18748,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -286.64957
     y: -1455.2214
-    width: 414
+    width: 420
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -18795,7 +18800,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 503
   indentLevel: 1
-  text: That sounds good ... I'll talk to  you later. sorry again
+  text: That sounds good ... I'll talk to you later. Sorry again
   description: 
   targetBlock: {fileID: 891147304}
   hideIfVisited: 0
@@ -18913,9 +18918,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -776.9128
-    y: -1327.5354
-    width: 338
+    x: -773.06665
+    y: -1323.6892
+    width: 342
     height: 40
   tint: {r: 0.227451, g: 0.9490197, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -19046,7 +19051,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -646.7806
     y: -1539.521
-    width: 274
+    width: 276
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -19158,7 +19163,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1107.6056
     y: -1523.5399
-    width: 390
+    width: 392
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -19184,8 +19189,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 493
   indentLevel: 0
-  text: I'm on a new project at work and my boss is mean but I need this promotion
-    so badly to cover all of our new bills...
+  text: I'm on a new project at work and I hate it but I should care about this promotion
+    more than I do to cover all of our new bills...
   description: 
   targetBlock: {fileID: 891147320}
   hideIfVisited: 0
@@ -19236,7 +19241,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 491
   indentLevel: 0
-  storyText: So we shoulve been there for each other! I know you don't do well alone
+  storyText: So we should've been there for each other! I know you don't do well alone
     with your thoughts, so I was also worried about you when you didn't reach out...
     is there something else going on?
   description: 
@@ -19331,7 +19336,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -350.18643
     y: -851.3877
-    width: 310
+    width: 314
     height: 40
   tint: {r: 0.227451, g: 0.9490197, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -19386,8 +19391,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 487
   indentLevel: 0
-  text: I'm on a new project at work and my boss is mean but I need this promotion
-    so badly to cover all of our new bills...
+  text: I'm on a new project at work and I hate it but I should care about this promotion
+    more than I do to cover all of our new bills...
   description: 
   targetBlock: {fileID: 891147323}
   hideIfVisited: 0
@@ -19413,8 +19418,8 @@ MonoBehaviour:
   itemId: 486
   indentLevel: 0
   storyText: 'I know you shut down when you get overwhelmed but I need you. Are you
-    not hurting too? He asked about you on his last day, remembering all of our camping
-    sleepovers and our movie nights when he''d make this "famous" popcorn... '
+    not hurting too? He asked about you on his last day, remembering all of our sleepovers
+    and movie nights with his "famous" popcorn... '
   description: 
   character: {fileID: 821451327}
   portrait: {fileID: 21300000, guid: a77e46017c4ba504788dd7b7c91c94f8, type: 3}
@@ -19507,7 +19512,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 600.8326
     y: -913.2805
-    width: 362
+    width: 372
     height: 40
   tint: {r: 0.23137257, g: 0.9686275, b: 0.5529412, a: 1}
   useCustomTint: 1
@@ -19735,7 +19740,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 108.68664
     y: -1105.7225
-    width: 314
+    width: 318
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -19847,7 +19852,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 831.3163
     y: -1129.5594
-    width: 226
+    width: 234
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -19959,7 +19964,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3228.9148
     y: -999.853
-    width: 330
+    width: 334
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -20007,7 +20012,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 388.62125
     y: -717.33044
-    width: 230
+    width: 234
     height: 40
   tint: {r: 0.89019614, g: 0.89019614, b: 0.5294118, a: 1}
   useCustomTint: 1
@@ -20119,7 +20124,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -10.078648
     y: -720.3633
-    width: 162
+    width: 166
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -20293,7 +20298,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 212.9196
     y: -554.9573
-    width: 126
+    width: 128
     height: 40
   tint: {r: 0.23921567, g: 1, b: 0.57066, a: 1}
   useCustomTint: 1
@@ -20408,7 +20413,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3635.7512
     y: -1904.2015
-    width: 510
+    width: 516
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -20543,7 +20548,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2917.6782
     y: -1931.6058
-    width: 418
+    width: 416
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -20765,7 +20770,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1271.7064
     y: -1951.5706
-    width: 266
+    width: 278
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -20996,7 +21001,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -775.9049
     y: -1955.2667
-    width: 242
+    width: 240
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -21260,7 +21265,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 629
   indentLevel: 1
-  text: "Jane (Friend)\tFriendship Communication"
+  text: "Jane\t\tFriendship Communication"
   description: 
   targetBlock: {fileID: 891147336}
   hideIfVisited: 0
@@ -21427,7 +21432,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 631
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147298}
   hideIfVisited: 0
@@ -21886,7 +21891,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1865.9653
     y: -1741.3312
-    width: 362
+    width: 364
     height: 40
   tint: {r: 0.23137257, g: 0.9686275, b: 0.5529412, a: 1}
   useCustomTint: 1
@@ -22017,7 +22022,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 538.93494
     y: -1941.3582
-    width: 258
+    width: 256
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -22192,7 +22197,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 728.00726
     y: -1693.0659
-    width: 326
+    width: 324
     height: 40
   tint: {r: 0.23137257, g: 0.9686275, b: 0.5529412, a: 1}
   useCustomTint: 1
@@ -22366,7 +22371,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1455.0975
     y: -2052.7666
-    width: 398
+    width: 402
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -22400,20 +22405,6 @@ MonoBehaviour:
     stringRef: {fileID: 0}
     stringVal: emailJane_1 activated
   messageOLD: 
---- !u!114 &891147390
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 891146916}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 93cb9773f2ca04e2bbf7a68ccfc23267, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 2071
-  indentLevel: 0
 --- !u!114 &891147391
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -22520,7 +22511,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2066
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane \t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147377}
   hideIfVisited: 0
@@ -22623,7 +22614,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2063
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane \t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147352}
   hideIfVisited: 0
@@ -22726,7 +22717,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2069
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane \t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147385}
   hideIfVisited: 0
@@ -22765,7 +22756,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 651
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147352}
   hideIfVisited: 0
@@ -22868,7 +22859,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 663
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147298}
   hideIfVisited: 0
@@ -23049,7 +23040,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 646
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147262}
   hideIfVisited: 0
@@ -23152,7 +23143,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 643
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane \t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147282}
   hideIfVisited: 0
@@ -23255,7 +23246,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 639
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147290}
   hideIfVisited: 0
@@ -23436,7 +23427,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 637
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147314}
   hideIfVisited: 0
@@ -23525,7 +23516,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 633
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147309}
   hideIfVisited: 0
@@ -23565,8 +23556,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 615
   indentLevel: 1
-  text: I know I really want to be a parent, but there's just so much involved - doctors,
-    new house, less sleep. I appreciate your understanding.
+  text: I know I really want to be a parent, but there's just so much involved. I
+    appreciate your understanding.
   description: 
   targetBlock: {fileID: 891147349}
   hideIfVisited: 0
@@ -24895,7 +24886,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 715
   indentLevel: 3
-  text: "Steven (Work)\t Re:Project Update Needed - Checking in"
+  text: "Steven\t\tRe:Project Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147189}
   hideIfVisited: 0
@@ -25165,7 +25156,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 712
   indentLevel: 3
-  text: "Steven (Work)\t Re:Project Update Needed - Checking in"
+  text: "Steven\t\tRe:Project Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147184}
   hideIfVisited: 0
@@ -25435,7 +25426,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 709
   indentLevel: 3
-  text: "Steven (Work)\tRe:Project Update Needed - Checking in"
+  text: "Steven\t\tRe:Project Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147194}
   hideIfVisited: 0
@@ -25705,7 +25696,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 706
   indentLevel: 3
-  text: "Steven (Work) \tRe:Project Update Needed - Checking in"
+  text: "Steven\t\tRe:Project Update Needed - Checking in"
   description: 
   targetBlock: {fileID: 891147199}
   hideIfVisited: 0
@@ -27420,7 +27411,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1871
   indentLevel: 2
-  text: Mom, Steven
+  text: "Mom, Steven\tWork called !"
   description: 
   targetBlock: {fileID: 891147077}
   hideIfVisited: 0
@@ -27509,7 +27500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1869
   indentLevel: 2
-  text: "Mom, Jane \t"
+  text: "Mom, Jane \t\tRude to Jane"
   description: 
   targetBlock: {fileID: 891147085}
   hideIfVisited: 0
@@ -28153,7 +28144,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 815.01215
     y: -2051.827
-    width: 438
+    width: 442
     height: 40
   tint: {r: 0.9921569, g: 0.9921569, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -29037,7 +29028,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2055
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147337}
   hideIfVisited: 0
@@ -29258,7 +29249,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2052
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane \t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147377}
   hideIfVisited: 0
@@ -29390,7 +29381,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2016
   indentLevel: 3
-  text: Jordan
+  text: 'Appointment notification: '
   description: 
   targetBlock: {fileID: 891147091}
   hideIfVisited: 0
@@ -35362,7 +35353,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2014
   indentLevel: 3
-  text: "Mom, Jane \tRe:"
+  text: "Mom, Jane \t\tRe:Rude to Jane"
   description: 
   targetBlock: {fileID: 891147104}
   hideIfVisited: 0
@@ -37666,7 +37657,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2049
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147385}
   hideIfVisited: 0
@@ -37912,7 +37903,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2043
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147385}
   hideIfVisited: 0
@@ -43206,7 +43197,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2046
   indentLevel: 2
-  text: "Jane (Friend) \tRe:Friendship Communication"
+  text: "Jane\t\tRe:Friendship Communication"
   description: 
   targetBlock: {fileID: 891147290}
   hideIfVisited: 0
@@ -43624,7 +43615,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2039
   indentLevel: 1
-  text: Doctor
+  text: Appointment notification
   description: 
   targetBlock: {fileID: 891147119}
   hideIfVisited: 0
@@ -43999,7 +43990,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &891148050
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -44013,7 +44004,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &891148051
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -44039,11 +44030,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1363
   indentLevel: 0
-  storyText: 'Dear Robin Bennett, Our labs for your leg have indicated that you have
-    a Ewing Sarcoma in the soft tissue surrounding your femur. This form of bone cancer
-    has potential to travel quickly, so we would like to begin treatement immediately.
-    Please call the office to schedule an appointment at your earliest availability.
-    Sincerely, Dr. C. Jones '
+  storyText: 'Appointment notification: Reminder to leave. Oncology Appointment in
+    15 minutes. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -44058,7 +44046,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 1105442840}
 --- !u!114 &891148053
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -44078,7 +44066,7 @@ MonoBehaviour:
   visibleOLD: 0
 --- !u!114 &891148054
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -44726,7 +44714,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &891148086
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -44758,7 +44746,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &891148088
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -44775,7 +44763,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &891148089
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -44967,7 +44955,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &891148093
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -44985,7 +44973,7 @@ MonoBehaviour:
   durationOLD: 0
 --- !u!114 &891148094
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -45017,7 +45005,7 @@ MonoBehaviour:
   indentLevel: 2
 --- !u!114 &891148096
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -45035,7 +45023,7 @@ MonoBehaviour:
   durationOLD: 0
 --- !u!114 &891148097
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -45051,6 +45039,20 @@ MonoBehaviour:
     floatRef: {fileID: 0}
     floatVal: 0.5
   durationOLD: 0
+--- !u!114 &891148098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891146916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93cb9773f2ca04e2bbf7a68ccfc23267, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 2314
+  indentLevel: 0
 --- !u!1 &1039333199
 GameObject:
   m_ObjectHideFlags: 0
@@ -45206,8 +45208,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1071958623}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.59, y: -0.687, z: -2.6}
-  m_LocalScale: {x: 0.46712056, y: 0.5139737, z: 0.586}
+  m_LocalPosition: {x: -5.849, y: -1.056, z: -2.475}
+  m_LocalScale: {x: 0.40359217, y: 0.4440733, z: 0.506304}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 14
@@ -45742,6 +45744,10 @@ PrefabInstance:
       propertyPath: m_FontData.m_MinSize
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 11488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
 --- !u!1 &1236054236
@@ -45827,8 +45833,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1329637952}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.991, y: -0.202, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.252, y: -0.574, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 9
@@ -45870,7 +45876,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1e591ae25493383479ceb32bf067dbbd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: daecb80357b4337428144e3b28a9f8ee, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -46019,8 +46025,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1575947024}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.952, y: -0.187, z: 8.159}
-  m_LocalScale: {x: 1.6330414, y: 1.9155265, z: 0.84889}
+  m_LocalPosition: {x: -3.219, y: -0.561, z: 8.273}
+  m_LocalScale: {x: 1.4109478, y: 1.655015, z: 0.733441}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 11
@@ -46104,8 +46110,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1643902984}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.999, y: -0.202, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.259, y: -0.574, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 3
@@ -46295,8 +46301,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1830269033}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.991, y: -0.202, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.252, y: -0.574, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 10
@@ -46374,8 +46380,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1834824055}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.999, y: -0.202, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.259, y: -0.574, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 7
@@ -47592,6 +47598,10 @@ PrefabInstance:
       propertyPath: m_FontData.m_MinSize
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 11488896, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 3}
 --- !u!1 &1968178320
@@ -47661,8 +47671,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2002111239}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.999, y: -0.202, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.259, y: -0.574, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 4
@@ -47740,8 +47750,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2052750348}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.999, y: -0.202, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.259, y: -0.574, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 2
@@ -47843,8 +47853,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2126356326}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.998, y: -0.202, z: 9}
-  m_LocalScale: {x: 0.43877348, y: 0.50113034, z: 0.424445}
+  m_LocalPosition: {x: -3.259, y: -0.574, z: 9}
+  m_LocalScale: {x: 0.3791003, y: 0.43297663, z: 0.3667205}
   m_Children: []
   m_Father: {fileID: 1968178321}
   m_RootOrder: 0

@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-E:/Final_build_ugotmail/Robin_Fungus_Email.exe
+C:/Users/Hesi/Desktop/Robin_Ugotmail/12_4_18_Build/Robin_Fungus_Email.exe
 SceneListBegin?
 Assets/Scenes/Robin_Story.unity
 SceneListEnd?
